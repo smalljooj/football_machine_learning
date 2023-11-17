@@ -1,0 +1,528 @@
+
+Jogador,Equipa,Posição,Idade,Valor de mercado,Contrato termina,Partidas jogadas,Minutos jogados:,Golos,Golos esperados,Naturalidade,País de nacionalidade,Pé,Altura,Peso,Emprestado
+Marquinhos,PSG,"RCB, LCB",29,70000000,2028-06-30,45,4117,2,1.22,Brazil,"Brazil, Portugal",direito,183,75,sim
+Éder Militão,Real Madrid,RCB,25,70000000,2025-06-30,42,3855,6,4.88,Brazil,"Brazil, Spain",direito,186,78,sim
+Gabriel Magalhaes,Arsenal,LCB,25,50000000,2027-06-30,51,4674,3,4.52,Brazil,Brazil,esquerdo,190,87,sim
+Bremer,Juventus,"CB, RCB",26,40000000,2027-06-30,42,4022,4,7.26,Brazil,Brazil,direito,188,82,sim
+Diego Carlos,Aston Villa,RCB,30,30000000,2026-06-30,11,652,0,1.36,Brazil,"Brazil, Spain",direito,185,79,sim
+Ibañez,Al Ahli,"LCB, RCB",24,30000000,2025-06-30,46,4434,4,5.25,Brazil,"Brazil, Italy",direito,185,73,sim
+Morato,Benfica,LCB,22,15000000,2027-06-30,19,1386,0,0.89,Brazil,Brazil,esquerdo,192,88,sim
+Luiz Felipe,Al Ittihad,"LCB, RCB",26,15000000,2027-06-30,33,3220,0,0.64,Brazil,"Brazil, Italy",direito,187,80,sim
+Tuta,Eintracht Frankfurt,RCB,24,15000000,2026-06-30,38,3485,2,1.52,Brazil,Brazil,direito,185,75,sim
+André,Fluminense,"RDMF, LCB, LDMF",22,14000000,2026-12-31,57,5481,1,1.19,Brazil,Brazil,direito,176,77,sim
+Alex Telles,Al Nassr,"LB, LCB",30,12000000,2024-06-30,33,2237,0,0.45,Brazil,"Brazil, Italy",esquerdo,181,0,sim
+Danilo,Juventus,"LCB, RCB",32,12000000,2025-06-30,51,4836,4,3.34,Brazil,Brazil,direito,184,78,sim
+Igor Julio,Brighton,LCB,25,11000000,2024-06-30,35,2927,0,0.83,Brazil,Brazil,esquerdo,185,84,sim
+Marcão,Sevilla,"LCB, CB",27,10000000,2027-06-30,5,202,0,0.18,Brazil,Brazil,esquerdo,185,81,sim
+Rodrigo Becão,Fenerbahçe,RCB,27,10000000,2024-06-30,32,3004,2,1.74,Brazil,Brazil,direito,191,79,sim
+Murilo,Palmeiras,LCB,26,8500000,2026-12-31,45,4302,5,5.01,Brazil,Brazil,direito,188,78,sim
+João Victor,Benfica,"RCB, RB, LB",25,8000000,2027-06-30,19,1323,0,0.01,Brazil,Brazil,direito,187,80,sim
+R. Tolói,Atalanta,RCB,33,8000000,2024-06-30,38,3300,1,2.59,Brazil,"Brazil, Italy",direito,185,75,sim
+Lucas Verissimo,Corinthians,"LCB, RCB",28,8000000,2026-06-30,18,1281,1,1.06,Brazil,Brazil,direito,188,77,sim
+Matheus Reis,Sporting CP,"LCB, LWB",28,8000000,2025-06-30,46,3241,1,0.71,Brazil,Brazil,esquerdo,184,80,sim
+Marlon,Fluminense,"RCB, LCB",28,7500000,2026-06-30,38,2138,0,0.63,Brazil,Brazil,direito,182,80,sim
+Samir,Tigres UANL,LCB,28,7000000,2026-06-30,42,3582,0,2.58,Brazil,Brazil,esquerdo,185,93,sim
+Vitão,Internacional,"RCB, LCB",23,7000000,2024-06-30,51,4714,0,2.7,Brazil,Brazil,direito,185,78,sim
+Nino,Fluminense,"RCB, LCB",26,7000000,2024-12-31,53,5062,5,3.07,Brazil,Brazil,direito,188,79,sim
+Léo Ortiz,Red Bull Bragantino,"LCB, RCB",27,6000000,2026-12-31,14,1183,1,0.54,Brazil,Brazil,direito,185,82,sim
+Nathan Silva,Pumas UNAM,RCB,26,6000000,2025-12-31,36,3388,2,2.53,Brazil,Brazil,direito,182,84,sim
+Natan,Napoli,LCB,22,5500000,2025-12-31,40,3717,0,2.83,Brazil,Brazil,esquerdo,188,81,sim
+Luan Peres,Fenerbahçe,"LB, LCB",29,5000000,2025-06-30,13,1053,1,0.6,Brazil,Brazil,esquerdo,190,79,sim
+Kaiky,Almería,"RCB, LCB",19,5000000,2028-06-30,14,854,1,0.22,Brazil,Brazil,direito,181,76,sim
+Dória,Santos Laguna,LCB,28,4500000,2025-06-30,31,2643,2,3.66,Brazil,"Brazil, Mexico",esquerdo,189,84,sim
+Ruan Tressoldi,Sassuolo,"LCB, RCB",24,4500000,2026-06-30,30,2390,0,0.92,Brazil,Brazil,direito,187,78,sim
+Vitor Hugo,Bahia,LCB,32,4500000,2026-12-31,38,3373,3,2.7,Brazil,Brazil,esquerdo,187,80,sim
+Alex Sandro,Juventus,"LCB, LB",32,4500000,2024-06-30,28,2336,0,1.01,Brazil,Brazil,esquerdo,180,80,sim
+Diego Costa,São Paulo,"RCB, LCB",24,4000000,2024-12-31,28,2328,0,1.13,Brazil,Brazil,direito,184,73,sim
+Juan Jesus,Napoli,LCB,32,4000000,2025-06-30,19,1400,1,1.09,Brazil,Brazil,esquerdo,185,83,sim
+Lyanco,Al Gharafa,"RCB, LCB",26,4000000,2025-06-30,28,2291,1,0.93,Brazil,"Brazil, Serbia",direito,187,83,sim
+Léo Pereira,Flamengo,LCB,27,4000000,2027-12-31,46,3868,4,2.79,Brazil,Brazil,esquerdo,189,79,sim
+Andrei Girotto,Al Taawon,"RCB, LCB, DMF",31,4000000,2024-06-30,43,4186,2,2.83,Brazil,"Brazil, Italy",direito,186,79,sim
+Vitor Tormena,Krasnodar,RCB,27,4000000,2024-06-30,35,3109,0,0.58,Brazil,Brazil,direito,192,84,sim
+Rodrigão,Zenit,"RCB, CB",28,4000000,2025-06-30,14,1148,0,0.19,Brazil,Brazil,direito,191,97,sim
+Fabricio Bruno,Flamengo,RCB,27,3500000,2025-12-31,58,5600,3,3.42,Brazil,Brazil,direito,192,90,sim
+Willyan Rocha,CSKA Moskva,"CB, RCB",28,3500000,2025-06-30,38,3521,2,3.36,Brazil,"Brazil, Italy",direito,191,90,sim
+Raul Gustavo,Bahia,LCB,24,3500000,2024-12-31,19,1451,0,1.07,Brazil,Brazil,esquerdo,189,87,sim
+Kanu,Bahia,"RCB, LCB",26,3500000,2023-12-31,44,4185,1,1.95,Brazil,Brazil,direito,186,80,sim
+Léo,Vasco da Gama,LCB,27,3500000,2025-12-31,44,4467,1,1.44,Brazil,Brazil,esquerdo,183,76,sim
+Thiago Martins,New York City,RCB,28,3500000,2025-12-31,29,2708,0,0.98,Brazil,Brazil,direito,185,78,sim
+André Ramalho,PSV,RCB,31,3500000,2024-06-30,45,3605,1,4.43,Brazil,"Brazil, Italy",direito,182,78,sim
+Léo Duarte,İstanbul Başakşehir,"RCB, LCB",27,3200000,2026-06-30,38,3703,0,1.09,Brazil,Brazil,direito,183,76,sim
+Felipe,Nottingham Forest,"CB, LCB, RCB",34,3000000,2024-06-30,19,1746,0,2.01,Brazil,Brazil,direito,190,83,sim
+Zé Ivaldo,Athletico Paranaense,"RCB, LCB",26,3000000,2023-12-31,36,3141,2,2.4,Brazil,Brazil,direito,185,78,sim
+Moisés,CSKA Moskva,"LCB, CB",28,3000000,2024-12-31,37,3401,2,2.71,Brazil,Brazil,esquerdo,184,89,sim
+Pablo,Flamengo,"LCB, RCB",32,3000000,2025-12-31,17,1350,0,0.75,Brazil,Brazil,direito,188,85,sim
+Lucas Halter,Goiás,RCB,23,3000000,2024-07-31,49,4705,6,2.61,Brazil,Brazil,direito,188,93,sim
+Fernando,Sevilla,"RDMF, CB, LCMF",36,3000000,2024-06-30,37,2793,0,0.47,Brazil,"Brazil, Portugal",direito,183,76,sim
+Pedro Henrique,Athletico Paranaense,RCB,28,3000000,2024-12-31,29,2758,1,1.65,Brazil,Brazil,direito,188,82,sim
+Rodrigo Ely,Grêmio,"RCB, CB",29,3000000,2024-06-30,32,2896,0,0.9,Brazil,"Brazil, Italy",direito,191,91,sim
+Igor Rabello,Atlético Mineiro,RCB,28,3000000,2025-12-31,8,586,0,0.0,Brazil,Brazil,direito,190,90,sim
+Gabriel Paulista,Valencia,"LCB, RCB",32,3000000,2024-06-30,22,1973,0,0.16,Brazil,"Brazil, Spain",direito,187,72,sim
+Adryelson,Botafogo,RCB,25,3000000,2025-12-31,55,5211,4,4.32,Brazil,Brazil,direito,182,74,sim
+Gláuber,Al Nasr,LCB,23,3000000,2025-06-30,31,3083,0,1.67,Brazil,Brazil,esquerdo,0,0,sim
+Lucas Fasson,Lokomotiv Moskva,LCB,22,2500000,2026-06-30,16,1483,0,0.73,Brazil,"Brazil, Italy",esquerdo,187,78,sim
+Beraldo,São Paulo,LCB,19,2500000,2026-06-30,41,3949,1,1.65,Brazil,Brazil,direito,182,77,sim
+Iago Maidana,América Mineiro,"LCB, CB, RCB",27,2500000,2023-12-31,47,4145,0,2.53,Brazil,Brazil,direito,195,91,sim
+Alexsandro Ribeiro,Lille,LCB,24,2500000,2026-06-30,30,2659,2,2.22,Brazil,Brazil,direito,189,82,sim
+Robson,Vasco da Gama,"RCB, RB",25,2500000,2025-06-30,19,1605,0,0.24,Brazil,Brazil,direito,185,74,sim
+Lucas Cunha,Red Bull Bragantino,RCB,26,2500000,2026-12-31,21,1823,2,0.92,Brazil,"Brazil, Portugal",direito,186,77,sim
+Luan,Palmeiras,"RCB, LCB",30,2500000,2024-12-31,38,3464,1,2.15,Brazil,Brazil,direito,189,79,sim
+Marcelo Benevenuto,Fortaleza,"RCB, CB",27,2500000,2026-12-31,36,3111,1,1.21,Brazil,Brazil,direito,180,73,sim
+Thiago Silva,Chelsea,"LCB, RCB, CB",39,2500000,2024-06-30,35,3322,0,2.09,Brazil,"Brazil, France",direito,181,79,sim
+Bernardo,Bochum,"LB, LCB",28,2500000,2024-06-30,23,2158,0,2.55,Brazil,Brazil,esquerdo,186,76,sim
+Gustavo Henrique,Real Valladolid,"LCB, RCB, CB",30,2400000,2023-12-31,15,1141,2,1.35,Brazil,Brazil,direito,194,86,sim
+Gabriel Noga,Flamengo,RCB,21,2000000,2024-12-31,2,104,0,0.0,Brazil,Brazil,direito,183,72,sim
+Lucas Ribeiro,Ceará,"LCB, RCB",24,2000000,2024-06-30,5,431,0,0.0,Brazil,Brazil,direito,190,80,sim
+Rodrigo Caio,Flamengo,"CB, RCB",30,2000000,2023-12-31,9,685,0,0.33,Brazil,"Brazil, Italy",direito,183,74,sim
+Henri,North Texas,"LCB, RCB",21,2000000,2025-12-31,38,3561,3,1.46,Brazil,Brazil,direito,187,73,sim
+Antônio Carlos,Orlando City,RCB,30,2000000,2023-12-31,22,1886,1,1.59,Brazil,Brazil,direito,190,79,sim
+Lucas Oliveira,Cruzeiro,RCB,27,2000000,2025-12-31,30,2929,2,0.69,Brazil,Brazil,direito,187,83,sim
+Jubal,Auxerre,"RCB, CB",30,2000000,2025-06-30,37,3397,4,4.31,Brazil,Brazil,direito,190,77,sim
+Rodrigo Guth,Fortuna Sittard,"RCB, LCB",22,2000000,2027-06-30,32,3115,0,1.41,Brazil,"Brazil, Germany",direito,191,79,sim
+Jemerson,Atlético Mineiro,LCB,31,2000000,2024-12-31,50,4619,0,1.76,Brazil,"Brazil, Monaco",direito,184,77,sim
+Kaio,Krasnodar,RCB,28,2000000,2024-06-30,24,2206,2,1.59,Brazil,Brazil,direito,186,80,sim
+Riccieli,Famalicão,RCB,25,2000000,2027-06-30,39,3751,1,1.69,Brazil,Brazil,direito,184,80,sim
+Bruno Fuchs,Atlético Mineiro,"RCB, RB",24,1800000,2025-06-30,26,2166,0,0.5,Brazil,Brazil,direito,190,85,sim
+Bruno Viana,Al Hazem,"LCB, RCB",28,1800000,2025-12-31,39,3647,1,0.91,Brazil,Brazil,direito,186,85,sim
+Arthur Chaves,Academico Viseu,"LCB, RCB",22,1750000,2027-06-30,31,2972,0,2.24,Brazil,Brazil,direito,188,81,sim
+Matheus Thuler,Vissel Kobe,"LCB, RCB",24,1600000,2025-01-31,26,1693,1,1.61,Brazil,Brazil,direito,186,83,sim
+Wesley Gasolina,Cruzeiro,"RB, RAMF, RCB",23,1500000,2024-12-31,5,332,0,0.03,Brazil,Brazil,direito,177,66,sim
+Éder,América Mineiro,"LCB, RCB",28,1500000,2024-12-31,43,3552,2,1.08,Brazil,Brazil,direito,184,82,sim
+Rodrigues,SJ Earthquakes,"LCB, RCB",26,1500000,2024-12-31,38,3694,1,3.67,Brazil,Brazil,direito,188,78,sim
+Pedrão,Portimonense,"RCB, CB",26,1500000,2027-06-30,33,3117,2,2.04,Brazil,Brazil,direito,194,87,sim
+Busanello,Malmö FF,"LB, LCB",25,1500000,2027-12-31,33,2940,1,2.06,Brazil,Brazil,esquerdo,180,75,sim
+Yuri Matias,Neftchi,RCB,28,1500000,2024-06-30,41,3960,5,4.02,Brazil,Brazil,direito,186,76,sim
+V. Cuesta,Botafogo,LCB,34,1500000,2024-12-31,58,5677,4,2.98,Argentina,"Argentina, Brazil",esquerdo,187,84,sim
+Iago Santos,Al Shabab,"RCB, LCB",31,1200000,2024-06-30,34,3540,2,2.61,Brazil,Brazil,direito,188,85,sim
+Roderick Miranda,Melbourne Victory,LCB,32,1200000,2025-06-30,19,1750,0,1.04,Portugal,"Portugal, Brazil",direito,191,85,sim
+Wallace,Al Ittihad Kalba,"LCB, RCB",29,1200000,2023-12-31,21,1727,1,0.95,Brazil,Brazil,direito,191,83,sim
+Léo Santos,Ceará,"RCB, LCB, DMF",24,1200000,2023-12-31,27,2129,2,2.36,Brazil,Brazil,direito,186,80,sim
+Matheus Felipe,Athletico Paranaense,"LCB, RCB",24,1200000,2026-12-31,17,1220,0,0.23,Brazil,Brazil,direito,186,84,sim
+Ignácio,Sporting Cristal,"LCB, RCB, CB",26,1200000,2025-12-31,44,4371,5,5.16,Brazil,Brazil,direito,190,92,sim
+Victor Luís,Coritiba,"LB, LCB",30,1200000,2024-12-31,38,2915,3,1.62,Brazil,"Brazil, Lithuania",esquerdo,177,81,sim
+Walce,São Paulo,"LCB, RB",24,1000000,2023-12-31,8,348,1,0.35,Brazil,Brazil,direito,188,79,sim
+Kaique Rocha,Athletico Paranaense,CB,22,1000000,2026-12-31,8,554,1,0.36,Brazil,Brazil,direito,195,87,sim
+Reynaldo,Coritiba,"LCB, CB",26,1000000,2025-11-30,17,1396,0,0.16,Brazil,Brazil,esquerdo,186,81,sim
+Gil,Corinthians,"RCB, LCB",36,1000000,2023-12-31,58,5647,4,5.02,Brazil,Brazil,direito,192,87,sim
+David Duarte,Bahia,"CB, RCB, LCB",28,1000000,2025-12-31,19,1668,1,0.84,Brazil,Brazil,direito,193,89,sim
+Léo Coelho,Peñarol,"LCB, RCB",30,1000000,2025-12-31,26,2274,0,0.31,Brazil,Brazil,direito,189,88,sim
+Jesiel,Kawasaki Frontale,RCB,29,1000000,2024-01-31,5,351,0,0.08,Brazil,Brazil,direito,186,84,sim
+Juninho,Midtjylland,"LCB, CB",28,1000000,2026-06-30,36,2985,2,3.6,Brazil,Brazil,esquerdo,187,80,sim
+Pepe,Porto,"RCB, LCB",40,1000000,2024-06-30,38,3466,1,1.28,Brazil,"Brazil, Portugal",direito,187,79,sim
+Wagner Leonardo,Vitória,LCB,24,900000,2025-06-30,33,3333,5,3.61,Brazil,Brazil,esquerdo,186,76,sim
+Raúl Silva,Universitatea Craiova,LCB,33,900000,2024-06-30,31,2472,0,2.3,Brazil,Brazil,esquerdo,187,80,sim
+Eduardo Santos,Red Bull Bragantino,"LCB, RCB",25,900000,2026-06-30,25,2283,1,1.19,Brazil,Brazil,direito,196,90,sim
+Fabiano,Aris,RCB,31,900000,2024-06-30,39,3719,7,6.6,Brazil,Brazil,direito,188,82,sim
+Sabino,Sport Recife,LCB,27,900000,2024-04-06,59,5809,7,5.55,Brazil,Brazil,esquerdo,185,87,sim
+Luiz Otávio,Mirassol,LCB,31,900000,2023-11-30,44,4313,0,3.56,Brazil,Brazil,direito,194,85,sim
+Ricardo Graça,Júbilo Iwata,LCB,26,900000,2024-01-31,37,3497,2,1.82,Brazil,"Brazil, Portugal",esquerdo,182,70,sim
+Alan Empereur,Cuiabá,LCB,29,900000,2024-12-31,34,3362,3,2.04,Brazil,"Brazil, Italy",esquerdo,186,82,sim
+Gabriel,Yokohama,LCB,28,800000,2024-01-31,2,147,0,0.04,Brazil,Brazil,direito,181,78,sim
+Lucas Possignolo,Zhejiang Professional,LCB,29,800000,2023-12-31,39,3175,2,2.2,Brazil,Brazil,direito,188,81,sim
+Luiz Felipe,Atlético GO,"RCB, LCB",30,800000,2024-12-31,18,1672,1,1.48,Brazil,Brazil,direito,187,79,sim
+Cacá,Athletico Paranaense,"RCB, LCB",24,800000,2025-01-31,24,2317,2,1.85,Brazil,Brazil,direito,187,77,sim
+Dodô,Santos,"LB, LCB",31,800000,2023-12-31,34,2888,0,0.77,Brazil,"Brazil, Portugal",esquerdo,177,80,sim
+Messias,Santos,"RCB, LCB",28,800000,2025-12-31,35,3359,1,1.55,Brazil,Brazil,direito,190,87,sim
+João Basso,Santos,RCB,26,800000,2024-06-30,42,3945,1,3.15,Brazil,"Brazil, Italy",direito,187,74,sim
+Tiago Cóser,Benfica U23,"RCB, LCB",19,800000,2026-06-30,17,1147,2,0.53,Brazil,"Brazil, Italy",direito,187,81,sim
+Ramon Menezes,CRB,LCB,28,800000,2024-12-31,32,2854,0,0.53,Brazil,Brazil,direito,186,81,sim
+Marcelo,Western Sydney Wanderers,"LCB, RCB",36,800000,2024-06-30,25,2164,2,2.24,Brazil,Brazil,direito,191,85,sim
+Lucas Freitas,Chapecoense,LCB,22,800000,2025-12-31,26,2409,0,1.04,Brazil,"Brazil, Portugal",esquerdo,184,76,sim
+Eduardo,Yokohama F. Marinos,LCB,30,800000,2025-01-31,33,2891,0,0.92,Brazil,Brazil,esquerdo,184,84,sim
+Thiago Heleno,Athletico Paranaense,"LCB, CB",35,800000,2024-12-31,51,4988,0,1.66,Brazil,Brazil,direito,185,84,sim
+Jadson,Shandong Taishan,RCB,31,800000,2024-12-31,34,2771,4,4.3,Brazil,Brazil,direito,189,81,sim
+Anderson,Vizela,"LCB, RCB, CB",28,800000,2024-06-30,32,3027,1,1.91,Brazil,Brazil,direito,186,77,sim
+Gabriel Lacerda,Sydney,"LCB, RCB",24,800000,2024-12-31,27,2274,0,0.74,Brazil,Brazil,direito,187,74,sim
+Rezende,Bahia,"LDMF, LCB, LCMF",28,750000,2023-12-31,47,4086,3,1.89,Brazil,Brazil,esquerdo,186,84,sim
+Bernardo Schappo,Fortaleza,LCB,24,750000,2026-12-31,14,1279,0,0.42,Brazil,"Brazil, Luxembourg",esquerdo,191,85,sim
+Bressan,Nantong Zhiyun,"LCB, RCB, CB",30,750000,2024-12-31,29,2735,0,0.55,Brazil,"Brazil, Italy",direito,185,79,sim
+Pablo Santos,Al Raed,LCB,31,700000,2024-06-30,10,921,1,0.93,Brazil,Brazil,esquerdo,188,77,sim
+Danilo Boza,Juventude,"RCB, LCB",25,700000,2025-12-31,47,4784,2,4.11,Brazil,Brazil,direito,184,76,sim
+Luan Patrick,Red Bull Bragantino,"RCB, LCB",21,700000,2024-12-31,26,2055,0,0.7,Brazil,Brazil,direito,190,80,sim
+Neris,Cruzeiro,RCB,31,700000,2024-12-31,21,1844,0,0.78,Brazil,Brazil,direito,190,88,sim
+Patrick William,Rio Ave,"LCB, RCB",26,700000,2025-06-30,30,2264,2,1.41,Brazil,Brazil,direito,185,78,sim
+Héliton,CSKA 1948 Sofia,LCB,27,700000,2024-06-30,34,3349,4,4.52,Brazil,Brazil,esquerdo,195,89,sim
+Dante,Nice,LCB,40,700000,2024-06-30,40,3845,1,2.84,Brazil,Brazil,esquerdo,188,89,sim
+Joaquim,Santos,"RCB, LCB",24,700000,2026-12-31,36,3480,1,2.92,Brazil,Brazil,direito,190,82,sim
+Michel,Palmeiras U20,"LCB, RCB",20,700000,2026-12-31,21,1607,1,0.6,Brazil,Brazil,direito,188,75,sim
+Paulo,Grêmio Novorizontino,"LCB, RCB",21,700000,2026-06-30,9,456,0,0.05,Brazil,Brazil,esquerdo,188,84,sim
+César Martins,Grêmio Novorizontino,"CB, LCB",30,675000,2025-12-10,27,2467,5,5.69,Brazil,Brazil,direito,191,88,sim
+Diego,Kashiwa Reysol,"LB, LCB",28,650000,2025-01-31,13,1108,1,1.0,Brazil,Brazil,esquerdo,183,77,sim
+Douglas Grolli,Avispa Fukuoka,"RCB, LCB",34,650000,2024-01-31,34,3143,2,2.79,Brazil,"Brazil, Italy",direito,189,84,sim
+Alex Nascimento,Santos,LCB,24,600000,2024-12-31,8,705,0,0.24,Brazil,Brazil,esquerdo,189,86,sim
+F. Alves,Brøndby,"CB, RCB",23,600000,2026-06-30,22,1911,0,1.43,Denmark,"Denmark, Brazil",direito,195,78,sim
+Léo Andrade,Gardner-Webb Bulldogs,"LCB, CB",25,600000,2025-06-30,27,2717,2,2.07,Brazil,Brazil,esquerdo,190,82,sim
+Luccas Claro,Eyüpspor,LCB,32,600000,2024-06-30,31,3018,1,1.84,Brazil,Brazil,direito,182,83,sim
+Philipe Sampaio,Botafogo,"RCB, LCB",28,600000,2024-12-31,21,1370,1,1.27,Brazil,Brazil,direito,191,89,sim
+Lucas Galvão,Austria Wien,"CB, LCB",32,600000,2025-06-30,17,1587,0,0.79,Brazil,Brazil,esquerdo,182,78,sim
+Bruno Melo,Goiás,LCB,31,600000,2023-12-31,50,4952,6,4.5,Brazil,Brazil,esquerdo,186,78,sim
+Anderson,Austria Lustenau,"RWB, RCB, RAMF",25,600000,2024-06-30,32,2528,1,3.31,Brazil,Brazil,direito,184,74,sim
+Rafael Pereira,Khorfakkan,"RCB, LCB",23,600000,2025-06-30,30,2262,0,1.35,Brazil,Brazil,esquerdo,189,80,sim
+David Luiz,Flamengo,"LCB, RCB, CB",36,600000,2023-12-31,40,3655,1,1.72,Brazil,"Brazil, Portugal",direito,189,84,sim
+Rubén Alves,Racing Santander,LCB,29,600000,2024-06-30,33,3041,0,1.28,Spain,"Spain, Brazil",esquerdo,184,74,sim
+Miranda,Vasco da Gama,"RCB, RB",23,600000,2023-12-31,19,1359,1,2.07,Brazil,Brazil,direito,181,73,sim
+João Marcelo,Cruzeiro,RCB,23,550000,2027-06-30,19,1795,6,2.32,Brazil,Brazil,direito,190,84,sim
+Da Silva,Red Bull Bragantino,"RCB, LCB, CB",22,500000,2024-12-31,7,538,0,0.28,Brazil,Brazil,direito,192,82,sim
+Rodrigo Moledo,Internacional,"RCB, LCB",36,500000,2023-12-31,27,2055,1,1.75,Brazil,Brazil,direito,188,84,sim
+Gabriel Pereira,Gil Vicente,"RCB, LCB",23,500000,2026-06-30,25,2266,1,1.34,Brazil,Brazil,direito,188,86,sim
+Bruno Uvini,Grêmio,"RCB, LCB",32,500000,2023-12-31,29,2476,2,2.6,Brazil,"Brazil, Italy",direito,188,85,sim
+Camutanga,Vitória,"RCB, LCB, CB",30,500000,2023-11-30,46,4272,3,2.38,Brazil,Brazil,direito,189,80,sim
+Matheus Costa,Marítimo,"RCB, LCB",28,500000,2026-06-30,24,1840,2,3.42,Brazil,"Brazil, Portugal",direito,188,82,sim
+Mansur,Estrela Amadora,LCB,30,500000,2025-06-30,24,2239,1,1.3,Brazil,Brazil,esquerdo,181,74,sim
+Emerson Santos,Atlético GO,"LCB, RCB, RB",28,500000,2025-01-01,26,1626,0,0.54,Brazil,Brazil,direito,184,75,sim
+Márcio Silva,Botafogo SP,LCB,22,500000,2025-08-31,35,3243,0,1.86,Brazil,Brazil,esquerdo,192,85,sim
+Roberto,Avaí,"RCB, LCB",25,500000,2023-11-30,30,2598,0,1.04,Brazil,Brazil,direito,188,88,sim
+Edu,Goiás,"RCB, LCB",23,500000,2024-06-30,20,1183,0,0.59,Brazil,Brazil,direito,185,88,sim
+Matheus Pereira,Oita Trinita,RCB,26,500000,2025-01-31,30,2689,2,2.16,Brazil,Brazil,direito,184,83,sim
+Maicon,Vasco da Gama,"RCB, LCB",35,500000,2023-12-31,25,2093,0,1.22,Brazil,"Brazil, Portugal",direito,191,80,sim
+Rafael Thyere,Sport Recife,RCB,30,500000,2024-12-31,54,5416,5,3.89,Brazil,Brazil,direito,189,86,sim
+Paulo Ricardo,Al Hazem,RCB,29,500000,2023-12-31,23,2288,0,0.8,Brazil,Brazil,direito,186,80,sim
+Marllon,Cuiabá,RCB,31,500000,2023-12-31,37,3797,2,2.81,Brazil,Brazil,direito,186,75,sim
+Artur,Ponte Preta,"LB, LCB",29,500000,2023-11-30,48,4765,0,1.93,Brazil,Brazil,esquerdo,178,75,sim
+Vitor Mendes,Fluminense,"RCB, LCB",24,450000,2024-12-31,13,798,1,0.7,Brazil,Brazil,direito,186,75,sim
+Léo Borges,Pogoń Szczecin,"LB, LCB",22,450000,2025-06-30,19,754,0,0.16,Brazil,Brazil,esquerdo,179,73,sim
+Marcelo Alves,Sochi,"CB, LCB, RCB",25,450000,2024-06-30,38,2987,3,1.34,Brazil,Brazil,direito,192,88,sim
+Clayton,AVS ,"RCB, LCB, RB",23,450000,2024-06-30,40,3725,3,2.61,Brazil,Brazil,direito,187,81,sim
+Pedro Barcelos,Mafra,LCB,27,425000,2024-06-05,29,2315,0,0.22,Brazil,Brazil,esquerdo,188,80,sim
+Valdo,V-Varen Nagasaki,RCB,31,400000,2025-01-31,13,1231,0,0.99,Brazil,Brazil,direito,183,77,sim
+Lucas Mezenga,Tondela,"RCB, LCB",21,400000,2024-12-31,3,216,0,0.04,Brazil,Brazil,direito,185,78,sim
+Maurício Antônio,Coritiba,"LCB, CB",31,400000,2024-06-30,19,1852,0,0.29,Brazil,"Brazil, Portugal",direito,183,82,sim
+Tiago Pagnussat,Ceará,RCB,33,400000,2024-12-31,39,3806,2,2.7,Brazil,"Brazil, Italy",direito,191,88,sim
+Luiz Otávio,Ceará,"LCB, RCB",35,400000,2023-12-31,29,2790,3,1.24,Brazil,Brazil,direito,190,84,sim
+R. Hillen,De Graafschap,LCB,20,400000,2024-06-30,37,3444,2,3.56,Netherlands,"Netherlands, Brazil",esquerdo,187,74,sim
+Chico,Sport Recife,LCB,25,400000,2024-12-31,19,1408,0,0.52,Brazil,Brazil,esquerdo,188,80,sim
+Lucão,Guarani,"LCB, RCB",27,400000,2023-11-30,48,4786,0,1.37,Brazil,Brazil,direito,187,80,sim
+Heron,Atlético GO,"LCB, LB",23,400000,2024-12-31,35,2939,0,0.84,Brazil,Brazil,esquerdo,186,78,sim
+Thiago Santos,Fluminense,"LDMF, RCB, CB",34,400000,2024-12-31,25,1004,0,0.55,Brazil,Brazil,direito,181,78,sim
+Rodrigo Freitas,Chapecoense,"LCB, RCB",25,400000,2023-11-30,32,3168,2,1.0,Brazil,Brazil,direito,189,82,sim
+Manoel,Fluminense,"RCB, LCB",33,400000,2024-12-31,19,1441,0,0.57,Brazil,Brazil,direito,181,82,sim
+Renan,Shabab Al Ahli Dubai,"LCB, LB",21,400000,2025-12-31,19,1795,3,1.9,Brazil,Brazil,esquerdo,184,69,sim
+Rafael Santos,Moreirense,LCB,25,375000,2025-06-30,14,1203,1,0.38,Brazil,Brazil,esquerdo,190,85,sim
+Wellington,Avaí,"RCB, DMF, LCB",28,350000,2023-12-31,12,1119,0,0.13,Brazil,Brazil,direito,187,90,sim
+Mendes,JEF United,LCB,28,350000,2024-01-31,5,317,1,0.2,Brazil,Brazil,esquerdo,190,83,sim
+Victor,BG Pathum United FC,CB,33,350000,2024-05-31,29,2843,10,7.04,Brazil,Brazil,direito,0,0,sim
+Eduardo Thuram,Aparecidense,LCB,26,350000,2023-12-31,10,618,0,0.41,Brazil,Brazil,esquerdo,189,84,sim
+Henrique Trevisan,Tokyo,"LCB, CB",26,350000,2024-01-31,28,2564,2,3.7,Brazil,"Brazil, Italy",esquerdo,185,78,sim
+Filipe Luis,Flamengo,"LB, LCB",38,350000,2023-12-31,17,1047,0,0.07,Brazil,"Brazil, Poland",esquerdo,182,74,sim
+Romércio,Juventude,"RCB, CB, LCB",26,350000,2023-12-31,28,2232,1,0.93,Brazil,Brazil,direito,185,78,sim
+Cláudio Falcão,Farense,"DMF, RCMF, RCB",29,350000,2024-06-30,32,2664,5,2.59,Brazil,"Brazil, Portugal",direito,187,79,sim
+Mateus Brunetti,DAC,LCB,23,350000,2025-06-30,24,1829,1,1.24,Brazil,"Brazil, Italy",esquerdo,182,77,sim
+Derlan,Oita Trinita,LCB,27,350000,2025-01-31,31,2518,0,2.61,Brazil,Brazil,esquerdo,187,80,sim
+Jordan,Zorya,"RCB, LCB",24,350000,2024-12-31,32,2950,1,2.38,Brazil,Brazil,direito,190,81,sim
+Raphael,Radomiak Radom,"RCB, CB",33,350000,2024-06-30,27,2398,1,2.12,Brazil,"Brazil, Italy",direito,190,84,sim
+Thiago Oliveira,Ponte Preta,"LCB, RCB",21,350000,2025-12-31,11,1034,1,0.83,Brazil,Brazil,direito,183,77,sim
+L. Monzón,Danubio,LCB,22,325000,2023-12-31,21,1883,0,0.18,Brazil,"Brazil, Uruguay",esquerdo,184,78,sim
+Cleberson,Madura United,"LCB, RCB",31,325000,2024-01-20,36,3406,0,3.2,Brazil,Brazil,direito,185,75,sim
+Alan Costa,Avaí,"RCB, LCB",33,325000,2023-12-31,32,2601,1,1.71,Brazil,Brazil,direito,194,82,sim
+Cléber Reis,USAC,"RCB, CB",32,300000,2024-01-07,19,1745,1,1.08,Brazil,Brazil,direito,187,94,sim
+Renato Augusto,Shimizu S-Pulse,"RDMF, RCB, RCMF",31,300000,2024-01-31,3,164,0,0.15,Brazil,Brazil,direito,185,81,sim
+Ricardo Silva,América Mineiro,"RCB, LCB",31,300000,2023-12-31,32,2908,1,1.4,Brazil,Brazil,direito,190,84,sim
+Edimar,CRB,"LB, LCB",37,300000,2023-12-31,18,1165,0,0.24,Brazil,Brazil,esquerdo,183,74,sim
+L. Felipe,West Florida Argos,"RCB, LCB",22,300000,2024-11-30,7,382,1,0.72,Brazil,Brazil,direito,186,79,sim
+Lucas Gazal,Atlético GO,RCB,24,300000,2024-06-30,39,3718,1,1.99,Brazil,Brazil,direito,187,86,sim
+Wanderson,América Mineiro,"RCB, LCB, CB",32,300000,2024-12-31,17,1401,0,0.35,Brazil,Brazil,direito,186,83,sim
+Ítalo,Ural,LCB,21,300000,2026-06-30,25,2167,0,1.17,Brazil,Brazil,esquerdo,191,78,sim
+Geromel,Grêmio,"RCB, CB",38,300000,2023-12-31,6,475,0,0.0,Brazil,"Brazil, Italy",direito,190,84,sim
+Zé Marcos,Juventude,LCB,25,300000,2023-12-31,27,2469,0,2.43,Brazil,Brazil,esquerdo,188,77,sim
+Danilo Avelar,América Mineiro,"LB, LCB",34,300000,2023-12-31,40,2843,4,5.12,Brazil,"Brazil, Italy",esquerdo,184,79,sim
+Thalisson,Coritiba,RCB,21,300000,2025-12-31,3,315,0,0.0,Brazil,Brazil,direito,190,79,sim
+Sidimar,Goiás,"LCB, RCB",31,300000,2024-12-31,34,2566,0,0.83,Brazil,Brazil,direito,186,88,sim
+Gabriel Mentz,Gzira United,LCB,25,300000,2026-06-30,21,1899,3,2.82,Brazil,Brazil,direito,185,0,sim
+Luciano Castán,Cruzeiro,LCB,34,300000,2023-12-31,45,4540,1,1.71,Brazil,"Brazil, Italy",esquerdo,187,80,sim
+Anderson Conceição,CRB,LCB,34,300000,2024-12-31,23,2025,1,0.71,Brazil,Brazil,esquerdo,188,75,sim
+Fabio Alemão,CRB,"RCB, LCB",27,300000,2023-12-31,41,3949,4,2.93,Brazil,Brazil,direito,184,87,sim
+Renan Alves,Barito Putera,"RCB, CB",30,300000,2023-12-31,39,3813,7,7.11,Brazil,Brazil,direito,183,80,sim
+Alan,Lokomotiv Sofia 1929,"RCB, LCB",25,300000,2024-06-30,29,2674,2,1.66,Brazil,Brazil,direito,191,78,sim
+Eduardo Brock,Cerro Porteño,LCB,32,300000,2023-12-31,35,2850,0,1.52,Brazil,"Brazil, Italy",esquerdo,186,89,sim
+Klaus,RWD Molenbeek,"CB, RCB",29,300000,2024-06-30,10,935,0,0.25,Brazil,Brazil,direito,187,79,sim
+Fábio Sanches,Ponte Preta,"LCB, RCB",32,300000,2023-11-30,33,3000,0,1.56,Brazil,Brazil,direito,186,85,sim
+Gustavo Alemão,Al Nasr,"LCB, RCB",23,300000,2023-12-29,15,1277,1,1.88,Brazil,Brazil,direito,186,0,sim
+Renan,Renofa Yamaguchi,"LCB, CB",27,275000,2024-01-31,27,2568,1,1.03,Brazil,Brazil,esquerdo,183,80,sim
+Jaime,Persis Solo,"RCB, CB, LCB",33,275000,2024-05-31,31,2849,2,1.84,Brazil,Brazil,direito,185,84,sim
+Bueno,Kashiwa Reysol,RCB,28,250000,2025-01-31,1,27,0,0.0,Brazil,Brazil,direito,182,79,sim
+Guilherme Café,Marília,RCB,26,250000,2024-04-30,18,1559,0,0.05,Brazil,Brazil,direito,187,80,sim
+Ronaldo Alves,Ferroviária,"RCB, LCB",34,250000,2023-12-31,9,811,0,0.51,Brazil,Brazil,direito,187,89,sim
+Gilvan,América RN,"LCB, CB",33,250000,2023-12-31,14,880,2,0.89,Brazil,Brazil,esquerdo,188,77,sim
+Barbosa,Ilioupoli,"CB, RCB",24,250000,2025-06-30,17,1595,1,0.94,Brazil,Brazil,direito,193,74,sim
+Marcondes,Vila Nova,"RCB, LCB",30,250000,2023-11-30,17,1053,0,0.64,Brazil,Brazil,direito,184,83,sim
+Nilson Júnior,Sepahan,LCB,32,250000,2024-06-30,2,138,0,0.0,Brazil,Brazil,esquerdo,190,73,sim
+Éverton Alemão,Brusque,RCB,30,250000,2023-11-30,33,3080,2,1.98,Brazil,Brazil,direito,185,80,sim
+Thalisson Kelven,Mirassol,RCB,25,250000,2024-05-31,38,3745,2,1.68,Brazil,Brazil,direito,184,79,sim
+Brendon Lucas,Hồ Chí Minh City,"RCB, LCB",28,250000,2024-06-30,19,1642,0,1.79,Brazil,Brazil,direito,188,80,sim
+Sávio,Rio Ave,"LCB, LB, LWB",28,250000,2025-06-30,23,785,0,0.05,Brazil,Brazil,esquerdo,173,69,sim
+P. Magalhaes,Deportes Iquique,"RCB, RB",33,250000,2023-12-31,4,348,0,0.0,Brazil,"Brazil, Chile",direito,177,75,sim
+Rafael Donato,Vila Nova,RCB,34,250000,2023-12-31,46,4444,3,4.85,Brazil,Brazil,direito,193,100,sim
+Frazan,Ituano,RCB,27,250000,2023-12-31,17,1368,0,0.39,Brazil,Brazil,direito,188,79,sim
+Rafael Vaz,Londrina,LCB,35,250000,2023-11-30,40,3897,2,3.44,Brazil,Brazil,esquerdo,188,84,sim
+João Victor,Vitória,"RCB, LCB, CB",26,250000,2024-12-31,21,1515,0,2.52,Brazil,Brazil,direito,188,80,sim
+Paulo Vinícius,BVSC,"RCB, CB, LCB",33,250000,2024-06-30,21,1909,1,1.46,Brazil,"Brazil, Hungary",direito,184,77,sim
+Titi,Fortaleza,LCB,35,250000,2024-12-31,59,5694,1,2.01,Brazil,"Brazil, Italy",esquerdo,188,83,sim
+L. Soldá,Sukhothai,RCB,30,250000,2023-11-30,23,2061,0,1.86,Brazil,"Brazil, Italy",direito,193,91,sim
+Ligger,Grêmio Novorizontino,"LCB, CB",35,250000,2023-11-30,23,1827,0,1.12,Brazil,Brazil,esquerdo,187,83,sim
+Renato,Grêmio Novorizontino,"LCB, CB",32,250000,2024-04-30,33,3004,0,1.09,Brazil,Brazil,direito,190,89,sim
+Arthur Félix,Londrina,RCB,33,225000,2023-11-30,7,682,1,0.97,Brazil,Brazil,direito,190,85,sim
+Eduardo Mancha,Ventforet Kofu,LCB,27,225000,2024-01-31,31,2448,2,1.65,Brazil,Brazil,esquerdo,187,80,sim
+Hugo Figueiredo,Hegelmann Litauen,"LCB, LB",31,225000,2023-12-31,36,3277,5,1.99,Brazil,"Brazil, Portugal",esquerdo,183,78,sim
+Maurício,Chapecoense,RCB,34,200000,2023-11-30,8,679,0,0.21,Brazil,Brazil,direito,185,83,sim
+Paulo Sérgio,Operário PR,"CB, RCB",34,200000,2023-12-31,9,704,0,0.22,Brazil,Brazil,direito,186,83,sim
+Jefferson,Al Qaisoma,"RCB, RDMF, CB",30,200000,2024-06-30,24,2039,1,0.97,Brazil,Brazil,direito,190,83,sim
+Mauricio Barbosa,Portuguesa RJ,"RCB, CB",28,200000,2024-04-10,12,1197,0,0.53,Brazil,Brazil,direito,198,93,sim
+N. Rizzo,Triestina,"LCB, LB",23,200000,2024-06-30,21,1478,1,0.82,Italy,"Italy, Brazil",esquerdo,188,78,sim
+Henrique,Coritiba,"LCB, CB",37,200000,2023-12-31,26,2487,0,1.06,Brazil,Brazil,direito,185,85,sim
+P. Casagrande Oliveira,Sporting Covilhã,"CB, RCB, LCB",24,200000,2024-06-30,17,1282,2,1.55,Brazil,Brazil,direito,186,78,sim
+Brunão,Turan-T,"RCB, LCB",26,200000,2024-06-30,34,3017,4,4.59,Brazil,Brazil,direito,188,80,sim
+Gabriel Xavier,Bahia,"RCB, LCB",22,200000,2025-12-31,24,2032,1,1.69,Brazil,Brazil,direito,190,85,sim
+Cleylton,Chapecoense,"RCB, LCB",30,200000,2023-11-30,10,656,0,0.47,Brazil,Brazil,direito,190,83,sim
+Matias Antonini,Taranto,CB,25,200000,2025-06-30,37,3618,5,1.74,Brazil,"Brazil, Italy",direito,191,80,sim
+Mateus Moraes,Yokohama,LCB,22,200000,2024-01-31,21,1741,0,0.3,Brazil,Brazil,esquerdo,188,74,sim
+Igor Gómes,Internacional,"RB, RCB",22,200000,2023-12-31,29,1674,1,1.81,Brazil,Brazil,direito,185,76,sim
+Lucas Dias,Botafogo SP,RCB,28,200000,2024-12-05,25,1872,0,1.15,Brazil,Brazil,direito,191,82,sim
+Reniê,Mirassol,LCB,34,200000,2023-11-30,8,573,0,0.13,Brazil,Brazil,direito,183,80,sim
+Brinner,Uthai Thani,"RCB, CB, LCB",36,200000,2024-05-31,34,3327,2,2.8,Brazil,Brazil,direito,189,73,sim
+Rodrigo,Criciúma,RCB,36,200000,2023-12-31,51,5153,0,3.16,Brazil,Brazil,direito,187,80,sim
+Réver,Atlético Mineiro,LCB,38,200000,2023-12-31,20,891,0,0.36,Brazil,Brazil,direito,192,83,sim
+Matheus,Atyrau,"RCB, LCB",32,200000,2023-12-31,21,1538,0,0.65,Brazil,"Brazil, Portugal",direito,188,88,sim
+David Braz,Fluminense,LCB,36,200000,2024-06-30,30,1778,0,1.1,Brazil,Brazil,direito,188,86,sim
+Douglas Mendes,Liefering,RCB,19,200000,2027-06-30,19,1098,0,0.84,Brazil,Brazil,direito,189,78,sim
+Luizão,Radomiak Radom,"RCB, RDMF, RCMF",25,200000,2025-06-30,15,1143,0,0.23,Brazil,Brazil,direito,184,66,sim
+Micael,Houston Dynamo,"LCB, LB",23,175000,2024-12-31,33,2970,1,1.63,Brazil,Brazil,esquerdo,183,82,sim
+Nailson,Al Jabalain,LCB,29,175000,2024-06-30,27,2790,3,2.09,Brazil,Brazil,esquerdo,191,86,sim
+Erivaldo Almeida,Estrela Amadora,"LCB, RCB",23,175000,2023-12-31,11,792,0,0.26,Brazil,Brazil,esquerdo,189,77,sim
+Rafael Vitor,Penang,"LCB, CB",30,175000,2023-11-30,28,2718,4,4.92,Brazil,Brazil,direito,192,78,sim
+João Vialle,Pouso Alegre,"RCB, RB",21,150000,2024-12-31,16,1374,0,0.35,Brazil,Brazil,direito,184,81,sim
+Didi,Avaí,LCB,32,150000,2023-11-30,21,1998,1,0.59,Brazil,Brazil,direito,184,78,sim
+Robson Reis,Paços de Ferreira,"RCB, CB",23,150000,2024-12-31,4,65,0,0.0,Brazil,Brazil,direito,195,87,sim
+Mateus Silva,Ponte Preta,RCB,28,150000,2023-12-31,41,3901,3,3.84,Brazil,Brazil,direito,192,92,sim
+Titi,Guarani,"LCB, LB",21,150000,2024-02-11,6,502,1,0.16,Brazil,Brazil,esquerdo,187,79,sim
+Heitor,Levadia,"RCB, LCB",23,150000,2023-12-31,24,2042,3,1.98,Brazil,Brazil,direito,0,0,sim
+Pará,Sampaio Corrêa,"LB, LCB",36,150000,2024-12-31,16,1264,0,0.4,Brazil,Brazil,esquerdo,172,73,sim
+Felipe Melo,Fluminense,LCB,40,150000,2024-12-31,45,2435,3,1.59,Brazil,"Brazil, Spain",direito,183,80,sim
+Roberto Dias,Al Kholood,RCB,35,150000,2024-06-30,33,3438,2,1.06,Brazil,"Brazil, Portugal",direito,188,86,sim
+Wálber,Guarani,"RCB, LCB",26,150000,2024-12-31,29,2196,0,0.26,Brazil,Brazil,direito,186,80,sim
+Bruno Oliveira,Velež,"LCB, LB",27,150000,2024-05-31,21,1646,0,0.29,Brazil,Brazil,esquerdo,186,0,sim
+Anderson,Persik Kediri,RCB,30,150000,2024-06-30,29,2729,2,2.89,Brazil,Brazil,direito,0,0,sim
+Saimon,CRB,RCB,32,150000,2023-12-31,22,1612,0,0.31,Brazil,Brazil,direito,185,79,sim
+Rayan,Criciúma,LCB,33,150000,2023-12-31,27,2364,0,1.92,Brazil,Brazil,esquerdo,185,75,sim
+Cleiton,Flamengo,LCB,20,150000,2024-12-31,18,1779,0,1.19,Brazil,Brazil,esquerdo,188,75,sim
+Alisson Cassiano,Sport Recife,"RCB, LCB",29,150000,2023-11-30,23,1845,1,1.54,Brazil,Brazil,direito,187,83,sim
+Isaque Gavioli,Leixões,RCB,22,125000,2025-06-30,5,345,0,0.0,Brazil,Brazil,direito,189,83,sim
+Walisson Maia,Criciúma,LCB,32,125000,2023-11-30,36,3229,0,0.77,Brazil,Brazil,direito,187,81,sim
+Allyson,Cuiabá,"RCB, LCB",33,125000,2024-12-31,17,1375,0,0.61,Brazil,Brazil,direito,184,78,sim
+Henrique Vermudt,Botafogo,RCB,24,100000,2024-12-31,1,65,0,0.0,Brazil,Brazil,direito,180,76,sim
+Felipe Camargo,Avaí,"LB, LCB",24,100000,2023-12-31,4,123,0,0.0,Brazil,Brazil,esquerdo,188,74,sim
+Gustavo Rissi,Miami,"LWB, LB, LCB",25,100000,2023-11-30,13,774,0,0.24,Brazil,Brazil,direito,184,72,sim
+Ulisses,Nacional,RCB,24,100000,2024-12-31,6,480,1,0.89,Brazil,Brazil,direito,186,80,sim
+Derick,Pouso Alegre,RCB,21,100000,2026-03-31,7,460,0,0.66,Brazil,Brazil,direito,193,84,sim
+Zé Vitor,Tombense,LCB,22,100000,2023-12-31,18,1083,2,0.73,Brazil,Brazil,esquerdo,189,86,sim
+Reverson,Grêmio Novorizontino,"LWB, LCB, LB",26,100000,2023-12-31,36,2912,2,1.85,Brazil,Brazil,esquerdo,175,71,sim
+Matheus Mega,CRB,"RCB, LCB, RB",24,100000,2023-12-31,8,649,0,0.49,Brazil,Brazil,direito,188,81,sim
+Felipe Silva,Gil Vicente,LCB,21,100000,2025-12-31,27,2622,2,1.94,Brazil,Brazil,esquerdo,190,78,sim
+Hélder,Criciúma,"LB, LCB",35,100000,2023-11-30,29,1892,1,0.24,Brazil,Brazil,esquerdo,179,81,sim
+Matheus Mancini,Criciúma,LCB,29,100000,2023-12-31,18,1384,0,0.25,Brazil,"Brazil, Italy",esquerdo,190,75,sim
+Venicio,Shijiazhuang Gongfu,"LCB, RCB",29,100000,2023-12-31,32,2450,3,1.81,Brazil,Brazil,direito,188,83,sim
+Pedro Carrerette,Botafogo PB,LCB,24,100000,2023-11-30,25,2463,2,1.34,Brazil,Brazil,direito,188,88,sim
+Joécio,Náutico,LCB,37,100000,2023-11-30,20,1736,2,1.92,Brazil,Brazil,direito,189,70,sim
+Renzo,Sport Recife,RCB,22,100000,2025-12-31,4,318,1,0.04,Brazil,Brazil,esquerdo,184,78,sim
+Bruno Silva,Grêmio Novorizontino,"CB, LCMF, RCMF",35,100000,2023-11-30,11,696,0,0.43,Brazil,Brazil,direito,183,82,sim
+Raphael Rodrigues,Confiança,RCB,24,100000,2024-12-31,14,1251,0,0.26,Brazil,Brazil,direito,183,69,sim
+Xandão,Varzim,LCB,33,100000,2023-11-30,29,2791,2,1.32,Brazil,Brazil,esquerdo,189,82,sim
+Y. Victor,Kelantan United,"RCB, CB",28,100000,2023-11-30,16,1561,1,2.13,Brazil,Brazil,direito,189,82,sim
+Alíx Vinícius,Atlético GO,"RCB, LCB",23,100000,2023-11-30,29,2555,2,3.41,Brazil,Brazil,direito,195,76,sim
+Da Silva,Red Bull Bragantino,"RCB, LCB, CB",22,500000,2024-12-31,7,538,0,0.28,Brazil,Brazil,direito,192,82,sim
+Rodrigo Moledo,Internacional,"RCB, LCB",36,500000,2023-12-31,27,2055,1,1.75,Brazil,Brazil,direito,188,84,sim
+Gabriel Pereira,Gil Vicente,"RCB, LCB",23,500000,2026-06-30,25,2266,1,1.34,Brazil,Brazil,direito,188,86,sim
+Bruno Uvini,Grêmio,"RCB, LCB",32,500000,2023-12-31,29,2476,2,2.6,Brazil,"Brazil, Italy",direito,188,85,sim
+Mansur,Estrela Amadora,LCB,30,500000,2025-06-30,24,2239,1,1.3,Brazil,Brazil,esquerdo,181,74,sim
+Emerson Santos,Atlético GO,"LCB, RCB, RB",28,500000,2025-01-01,26,1626,0,0.54,Brazil,Brazil,direito,184,75,sim
+Camutanga,Vitória,"RCB, LCB, CB",30,500000,2023-11-30,46,4272,3,2.38,Brazil,Brazil,direito,189,80,sim
+Matheus Costa,Marítimo,"RCB, LCB",28,500000,2026-06-30,24,1840,2,3.42,Brazil,"Brazil, Portugal",direito,188,82,sim
+Márcio Silva,Botafogo SP,LCB,22,500000,2025-08-31,35,3243,0,1.86,Brazil,Brazil,esquerdo,192,85,sim
+Rafael Thyere,Sport Recife,RCB,30,500000,2024-12-31,54,5416,5,3.89,Brazil,Brazil,direito,189,86,sim
+Matheus Pereira,Oita Trinita,RCB,26,500000,2025-01-31,30,2689,2,2.16,Brazil,Brazil,direito,184,83,sim
+Edu,Goiás,"RCB, LCB",23,500000,2024-06-30,20,1183,0,0.59,Brazil,Brazil,direito,185,88,sim
+Maicon,Vasco da Gama,"RCB, LCB",35,500000,2023-12-31,25,2093,0,1.22,Brazil,"Brazil, Portugal",direito,191,80,sim
+Roberto,Avaí,"RCB, LCB",25,500000,2023-11-30,30,2598,0,1.04,Brazil,Brazil,direito,188,88,sim
+Paulo Ricardo,Al Hazem,RCB,29,500000,2023-12-31,23,2288,0,0.8,Brazil,Brazil,direito,186,80,sim
+Marllon,Cuiabá,RCB,31,500000,2023-12-31,37,3797,2,2.81,Brazil,Brazil,direito,186,75,sim
+Artur,Ponte Preta,"LB, LCB",29,500000,2023-11-30,48,4765,0,1.93,Brazil,Brazil,esquerdo,178,75,sim
+Vitor Mendes,Fluminense,"RCB, LCB",24,450000,2024-12-31,13,798,1,0.7,Brazil,Brazil,direito,186,75,sim
+Léo Borges,Pogoń Szczecin,"LB, LCB",22,450000,2025-06-30,19,754,0,0.16,Brazil,Brazil,esquerdo,179,73,sim
+Clayton,AVS ,"RCB, LCB, RB",23,450000,2024-06-30,40,3725,3,2.61,Brazil,Brazil,direito,187,81,sim
+Marcelo Alves,Sochi,"CB, LCB, RCB",25,450000,2024-06-30,38,2987,3,1.34,Brazil,Brazil,direito,192,88,sim
+Pedro Barcelos,Mafra,LCB,27,425000,2024-06-05,29,2315,0,0.22,Brazil,Brazil,esquerdo,188,80,sim
+Valdo,V-Varen Nagasaki,RCB,31,400000,2025-01-31,13,1231,0,0.99,Brazil,Brazil,direito,183,77,sim
+Lucas Mezenga,Tondela,"RCB, LCB",21,400000,2024-12-31,3,216,0,0.04,Brazil,Brazil,direito,185,78,sim
+Maurício Antônio,Coritiba,"LCB, CB",31,400000,2024-06-30,19,1852,0,0.29,Brazil,"Brazil, Portugal",direito,183,82,sim
+Tiago Pagnussat,Ceará,RCB,33,400000,2024-12-31,39,3806,2,2.7,Brazil,"Brazil, Italy",direito,191,88,sim
+Luiz Otávio,Ceará,"LCB, RCB",35,400000,2023-12-31,29,2790,3,1.24,Brazil,Brazil,direito,190,84,sim
+Lucão,Guarani,"LCB, RCB",27,400000,2023-11-30,48,4786,0,1.37,Brazil,Brazil,direito,187,80,sim
+R. Hillen,De Graafschap,LCB,20,400000,2024-06-30,37,3444,2,3.56,Netherlands,"Netherlands, Brazil",esquerdo,187,74,sim
+Chico,Sport Recife,LCB,25,400000,2024-12-31,19,1408,0,0.52,Brazil,Brazil,esquerdo,188,80,sim
+Rodrigo Freitas,Chapecoense,"LCB, RCB",25,400000,2023-11-30,32,3168,2,1.0,Brazil,Brazil,direito,189,82,sim
+Thiago Santos,Fluminense,"LDMF, RCB, CB",34,400000,2024-12-31,25,1004,0,0.55,Brazil,Brazil,direito,181,78,sim
+Heron,Atlético GO,"LCB, LB",23,400000,2024-12-31,35,2939,0,0.84,Brazil,Brazil,esquerdo,186,78,sim
+Manoel,Fluminense,"RCB, LCB",33,400000,2024-12-31,19,1441,0,0.57,Brazil,Brazil,direito,181,82,sim
+Renan,Shabab Al Ahli Dubai,"LCB, LB",21,400000,2025-12-31,19,1795,3,1.9,Brazil,Brazil,esquerdo,184,69,sim
+Rafael Santos,Moreirense,LCB,25,375000,2025-06-30,14,1203,1,0.38,Brazil,Brazil,esquerdo,190,85,sim
+Wellington,Avaí,"RCB, DMF, LCB",28,350000,2023-12-31,12,1119,0,0.13,Brazil,Brazil,direito,187,90,sim
+Henrique Trevisan,Tokyo,"LCB, CB",26,350000,2024-01-31,28,2564,2,3.7,Brazil,"Brazil, Italy",esquerdo,185,78,sim
+Filipe Luis,Flamengo,"LB, LCB",38,350000,2023-12-31,17,1047,0,0.07,Brazil,"Brazil, Poland",esquerdo,182,74,sim
+Romércio,Juventude,"RCB, CB, LCB",26,350000,2023-12-31,28,2232,1,0.93,Brazil,Brazil,direito,185,78,sim
+Victor,BG Pathum United FC,CB,33,350000,2024-05-31,29,2843,10,7.04,Brazil,Brazil,direito,0,0,sim
+Derlan,Oita Trinita,LCB,27,350000,2025-01-31,31,2518,0,2.61,Brazil,Brazil,esquerdo,187,80,sim
+Mateus Brunetti,DAC,LCB,23,350000,2025-06-30,24,1829,1,1.24,Brazil,"Brazil, Italy",esquerdo,182,77,sim
+Mendes,JEF United,LCB,28,350000,2024-01-31,5,317,1,0.2,Brazil,Brazil,esquerdo,190,83,sim
+Cláudio Falcão,Farense,"DMF, RCMF, RCB",29,350000,2024-06-30,32,2664,5,2.59,Brazil,"Brazil, Portugal",direito,187,79,sim
+Eduardo Thuram,Aparecidense,LCB,26,350000,2023-12-31,10,618,0,0.41,Brazil,Brazil,esquerdo,189,84,sim
+Thiago Oliveira,Ponte Preta,"LCB, RCB",21,350000,2025-12-31,11,1034,1,0.83,Brazil,Brazil,direito,183,77,sim
+Jordan,Zorya,"RCB, LCB",24,350000,2024-12-31,32,2950,1,2.38,Brazil,Brazil,direito,190,81,sim
+Raphael,Radomiak Radom,"RCB, CB",33,350000,2024-06-30,27,2398,1,2.12,Brazil,"Brazil, Italy",direito,190,84,sim
+L. Monzón,Danubio,LCB,22,325000,2023-12-31,21,1883,0,0.18,Brazil,"Brazil, Uruguay",esquerdo,184,78,sim
+Cleberson,Madura United,"LCB, RCB",31,325000,2024-01-20,36,3406,0,3.2,Brazil,Brazil,direito,185,75,sim
+Alan Costa,Avaí,"RCB, LCB",33,325000,2023-12-31,32,2601,1,1.71,Brazil,Brazil,direito,194,82,sim
+Cléber Reis,USAC,"RCB, CB",32,300000,2024-01-07,19,1745,1,1.08,Brazil,Brazil,direito,187,94,sim
+Renato Augusto,Shimizu S-Pulse,"RDMF, RCB, RCMF",31,300000,2024-01-31,3,164,0,0.15,Brazil,Brazil,direito,185,81,sim
+Ricardo Silva,América Mineiro,"RCB, LCB",31,300000,2023-12-31,32,2908,1,1.4,Brazil,Brazil,direito,190,84,sim
+Ítalo,Ural,LCB,21,300000,2026-06-30,25,2167,0,1.17,Brazil,Brazil,esquerdo,191,78,sim
+Geromel,Grêmio,"RCB, CB",38,300000,2023-12-31,6,475,0,0.0,Brazil,"Brazil, Italy",direito,190,84,sim
+Zé Marcos,Juventude,LCB,25,300000,2023-12-31,27,2469,0,2.43,Brazil,Brazil,esquerdo,188,77,sim
+Danilo Avelar,América Mineiro,"LB, LCB",34,300000,2023-12-31,40,2843,4,5.12,Brazil,"Brazil, Italy",esquerdo,184,79,sim
+Edimar,CRB,"LB, LCB",37,300000,2023-12-31,18,1165,0,0.24,Brazil,Brazil,esquerdo,183,74,sim
+L. Felipe,West Florida Argos,"RCB, LCB",22,300000,2024-11-30,7,382,1,0.72,Brazil,Brazil,direito,186,79,sim
+Lucas Gazal,Atlético GO,RCB,24,300000,2024-06-30,39,3718,1,1.99,Brazil,Brazil,direito,187,86,sim
+Wanderson,América Mineiro,"RCB, LCB, CB",32,300000,2024-12-31,17,1401,0,0.35,Brazil,Brazil,direito,186,83,sim
+Alan,Lokomotiv Sofia 1929,"RCB, LCB",25,300000,2024-06-30,29,2674,2,1.66,Brazil,Brazil,direito,191,78,sim
+Anderson Conceição,CRB,LCB,34,300000,2024-12-31,23,2025,1,0.71,Brazil,Brazil,esquerdo,188,75,sim
+Fabio Alemão,CRB,"RCB, LCB",27,300000,2023-12-31,41,3949,4,2.93,Brazil,Brazil,direito,184,87,sim
+Gabriel Mentz,Gzira United,LCB,25,300000,2026-06-30,21,1899,3,2.82,Brazil,Brazil,direito,185,0,sim
+Sidimar,Goiás,"LCB, RCB",31,300000,2024-12-31,34,2566,0,0.83,Brazil,Brazil,direito,186,88,sim
+Eduardo Brock,Cerro Porteño,LCB,32,300000,2023-12-31,35,2850,0,1.52,Brazil,"Brazil, Italy",esquerdo,186,89,sim
+Thalisson,Coritiba,RCB,21,300000,2025-12-31,3,315,0,0.0,Brazil,Brazil,direito,190,79,sim
+Luciano Castán,Cruzeiro,LCB,34,300000,2023-12-31,45,4540,1,1.71,Brazil,"Brazil, Italy",esquerdo,187,80,sim
+Renan Alves,Barito Putera,"RCB, CB",30,300000,2023-12-31,39,3813,7,7.11,Brazil,Brazil,direito,183,80,sim
+Fábio Sanches,Ponte Preta,"LCB, RCB",32,300000,2023-11-30,33,3000,0,1.56,Brazil,Brazil,direito,186,85,sim
+Gustavo Alemão,Al Nasr,"LCB, RCB",23,300000,2023-12-29,15,1277,1,1.88,Brazil,Brazil,direito,186,0,sim
+Klaus,RWD Molenbeek,"CB, RCB",29,300000,2024-06-30,10,935,0,0.25,Brazil,Brazil,direito,187,79,sim
+Renan,Renofa Yamaguchi,"LCB, CB",27,275000,2024-01-31,27,2568,1,1.03,Brazil,Brazil,esquerdo,183,80,sim
+Jaime,Persis Solo,"RCB, CB, LCB",33,275000,2024-05-31,31,2849,2,1.84,Brazil,Brazil,direito,185,84,sim
+Bueno,Kashiwa Reysol,RCB,28,250000,2025-01-31,1,27,0,0.0,Brazil,Brazil,direito,182,79,sim
+Guilherme Café,Marília,RCB,26,250000,2024-04-30,18,1559,0,0.05,Brazil,Brazil,direito,187,80,sim
+Gilvan,América RN,"LCB, CB",33,250000,2023-12-31,14,880,2,0.89,Brazil,Brazil,esquerdo,188,77,sim
+Ronaldo Alves,Ferroviária,"RCB, LCB",34,250000,2023-12-31,9,811,0,0.51,Brazil,Brazil,direito,187,89,sim
+Barbosa,Ilioupoli,"CB, RCB",24,250000,2025-06-30,17,1595,1,0.94,Brazil,Brazil,direito,193,74,sim
+Marcondes,Vila Nova,"RCB, LCB",30,250000,2023-11-30,17,1053,0,0.64,Brazil,Brazil,direito,184,83,sim
+Éverton Alemão,Brusque,RCB,30,250000,2023-11-30,33,3080,2,1.98,Brazil,Brazil,direito,185,80,sim
+Nilson Júnior,Sepahan,LCB,32,250000,2024-06-30,2,138,0,0.0,Brazil,Brazil,esquerdo,190,73,sim
+Brendon Lucas,Hồ Chí Minh City,"RCB, LCB",28,250000,2024-06-30,19,1642,0,1.79,Brazil,Brazil,direito,188,80,sim
+Thalisson Kelven,Mirassol,RCB,25,250000,2024-05-31,38,3745,2,1.68,Brazil,Brazil,direito,184,79,sim
+João Victor,Vitória,"RCB, LCB, CB",26,250000,2024-12-31,21,1515,0,2.52,Brazil,Brazil,direito,188,80,sim
+P. Magalhaes,Deportes Iquique,"RCB, RB",33,250000,2023-12-31,4,348,0,0.0,Brazil,"Brazil, Chile",direito,177,75,sim
+Rafael Vaz,Londrina,LCB,35,250000,2023-11-30,40,3897,2,3.44,Brazil,Brazil,esquerdo,188,84,sim
+Paulo Vinícius,BVSC,"RCB, CB, LCB",33,250000,2024-06-30,21,1909,1,1.46,Brazil,"Brazil, Hungary",direito,184,77,sim
+Rafael Donato,Vila Nova,RCB,34,250000,2023-12-31,46,4444,3,4.85,Brazil,Brazil,direito,193,100,sim
+Frazan,Ituano,RCB,27,250000,2023-12-31,17,1368,0,0.39,Brazil,Brazil,direito,188,79,sim
+Sávio,Rio Ave,"LCB, LB, LWB",28,250000,2025-06-30,23,785,0,0.05,Brazil,Brazil,esquerdo,173,69,sim
+Titi,Fortaleza,LCB,35,250000,2024-12-31,59,5694,1,2.01,Brazil,"Brazil, Italy",esquerdo,188,83,sim
+Ligger,Grêmio Novorizontino,"LCB, CB",35,250000,2023-11-30,23,1827,0,1.12,Brazil,Brazil,esquerdo,187,83,sim
+Renato,Grêmio Novorizontino,"LCB, CB",32,250000,2024-04-30,33,3004,0,1.09,Brazil,Brazil,direito,190,89,sim
+L. Soldá,Sukhothai,RCB,30,250000,2023-11-30,23,2061,0,1.86,Brazil,"Brazil, Italy",direito,193,91,sim
+Arthur Félix,Londrina,RCB,33,225000,2023-11-30,7,682,1,0.97,Brazil,Brazil,direito,190,85,sim
+Hugo Figueiredo,Hegelmann Litauen,"LCB, LB",31,225000,2023-12-31,36,3277,5,1.99,Brazil,"Brazil, Portugal",esquerdo,183,78,sim
+Eduardo Mancha,Ventforet Kofu,LCB,27,225000,2024-01-31,31,2448,2,1.65,Brazil,Brazil,esquerdo,187,80,sim
+Maurício,Chapecoense,RCB,34,200000,2023-11-30,8,679,0,0.21,Brazil,Brazil,direito,185,83,sim
+Paulo Sérgio,Operário PR,"CB, RCB",34,200000,2023-12-31,9,704,0,0.22,Brazil,Brazil,direito,186,83,sim
+Jefferson,Al Qaisoma,"RCB, RDMF, CB",30,200000,2024-06-30,24,2039,1,0.97,Brazil,Brazil,direito,190,83,sim
+Mauricio Barbosa,Portuguesa RJ,"RCB, CB",28,200000,2024-04-10,12,1197,0,0.53,Brazil,Brazil,direito,198,93,sim
+N. Rizzo,Triestina,"LCB, LB",23,200000,2024-06-30,21,1478,1,0.82,Italy,"Italy, Brazil",esquerdo,188,78,sim
+Lucas Dias,Botafogo SP,RCB,28,200000,2024-12-05,25,1872,0,1.15,Brazil,Brazil,direito,191,82,sim
+Reniê,Mirassol,LCB,34,200000,2023-11-30,8,573,0,0.13,Brazil,Brazil,direito,183,80,sim
+Rodrigo,Criciúma,RCB,36,200000,2023-12-31,51,5153,0,3.16,Brazil,Brazil,direito,187,80,sim
+Réver,Atlético Mineiro,LCB,38,200000,2023-12-31,20,891,0,0.36,Brazil,Brazil,direito,192,83,sim
+Brinner,Uthai Thani,"RCB, CB, LCB",36,200000,2024-05-31,34,3327,2,2.8,Brazil,Brazil,direito,189,73,sim
+Mateus Moraes,Yokohama,LCB,22,200000,2024-01-31,21,1741,0,0.3,Brazil,Brazil,esquerdo,188,74,sim
+Gabriel Xavier,Bahia,"RCB, LCB",22,200000,2025-12-31,24,2032,1,1.69,Brazil,Brazil,direito,190,85,sim
+Igor Gómes,Internacional,"RB, RCB",22,200000,2023-12-31,29,1674,1,1.81,Brazil,Brazil,direito,185,76,sim
+Cleylton,Chapecoense,"RCB, LCB",30,200000,2023-11-30,10,656,0,0.47,Brazil,Brazil,direito,190,83,sim
+Henrique,Coritiba,"LCB, CB",37,200000,2023-12-31,26,2487,0,1.06,Brazil,Brazil,direito,185,85,sim
+P. Casagrande Oliveira,Sporting Covilhã,"CB, RCB, LCB",24,200000,2024-06-30,17,1282,2,1.55,Brazil,Brazil,direito,186,78,sim
+Brunão,Turan-T,"RCB, LCB",26,200000,2024-06-30,34,3017,4,4.59,Brazil,Brazil,direito,188,80,sim
+Matias Antonini,Taranto,CB,25,200000,2025-06-30,37,3618,5,1.74,Brazil,"Brazil, Italy",direito,191,80,sim
+David Braz,Fluminense,LCB,36,200000,2024-06-30,30,1778,0,1.1,Brazil,Brazil,direito,188,86,sim
+Matheus,Atyrau,"RCB, LCB",32,200000,2023-12-31,21,1538,0,0.65,Brazil,"Brazil, Portugal",direito,188,88,sim
+Douglas Mendes,Liefering,RCB,19,200000,2027-06-30,19,1098,0,0.84,Brazil,Brazil,direito,189,78,sim
+Luizão,Radomiak Radom,"RCB, RDMF, RCMF",25,200000,2025-06-30,15,1143,0,0.23,Brazil,Brazil,direito,184,66,sim
+Micael,Houston Dynamo,"LCB, LB",23,175000,2024-12-31,33,2970,1,1.63,Brazil,Brazil,esquerdo,183,82,sim
+Nailson,Al Jabalain,LCB,29,175000,2024-06-30,27,2790,3,2.09,Brazil,Brazil,esquerdo,191,86,sim
+Erivaldo Almeida,Estrela Amadora,"LCB, RCB",23,175000,2023-12-31,11,792,0,0.26,Brazil,Brazil,esquerdo,189,77,sim
+Rafael Vitor,Penang,"LCB, CB",30,175000,2023-11-30,28,2718,4,4.92,Brazil,Brazil,direito,192,78,sim
+João Vialle,Pouso Alegre,"RCB, RB",21,150000,2024-12-31,16,1374,0,0.35,Brazil,Brazil,direito,184,81,sim
+Didi,Avaí,LCB,32,150000,2023-11-30,21,1998,1,0.59,Brazil,Brazil,direito,184,78,sim
+Robson Reis,Paços de Ferreira,"RCB, CB",23,150000,2024-12-31,4,65,0,0.0,Brazil,Brazil,direito,195,87,sim
+Titi,Guarani,"LCB, LB",21,150000,2024-02-11,6,502,1,0.16,Brazil,Brazil,esquerdo,187,79,sim
+Mateus Silva,Ponte Preta,RCB,28,150000,2023-12-31,41,3901,3,3.84,Brazil,Brazil,direito,192,92,sim
+Heitor,Levadia,"RCB, LCB",23,150000,2023-12-31,24,2042,3,1.98,Brazil,Brazil,direito,0,0,sim
+Wálber,Guarani,"RCB, LCB",26,150000,2024-12-31,29,2196,0,0.26,Brazil,Brazil,direito,186,80,sim
+Roberto Dias,Al Kholood,RCB,35,150000,2024-06-30,33,3438,2,1.06,Brazil,"Brazil, Portugal",direito,188,86,sim
+Felipe Melo,Fluminense,LCB,40,150000,2024-12-31,45,2435,3,1.59,Brazil,"Brazil, Spain",direito,183,80,sim
+Pará,Sampaio Corrêa,"LB, LCB",36,150000,2024-12-31,16,1264,0,0.4,Brazil,Brazil,esquerdo,172,73,sim
+Rayan,Criciúma,LCB,33,150000,2023-12-31,27,2364,0,1.92,Brazil,Brazil,esquerdo,185,75,sim
+Saimon,CRB,RCB,32,150000,2023-12-31,22,1612,0,0.31,Brazil,Brazil,direito,185,79,sim
+Cleiton,Flamengo,LCB,20,150000,2024-12-31,18,1779,0,1.19,Brazil,Brazil,esquerdo,188,75,sim
+Anderson,Persik Kediri,RCB,30,150000,2024-06-30,29,2729,2,2.89,Brazil,Brazil,direito,0,0,sim
+Bruno Oliveira,Velež,"LCB, LB",27,150000,2024-05-31,21,1646,0,0.29,Brazil,Brazil,esquerdo,186,0,sim
+Alisson Cassiano,Sport Recife,"RCB, LCB",29,150000,2023-11-30,23,1845,1,1.54,Brazil,Brazil,direito,187,83,sim
+Isaque Gavioli,Leixões,RCB,22,125000,2025-06-30,5,345,0,0.0,Brazil,Brazil,direito,189,83,sim
+Walisson Maia,Criciúma,LCB,32,125000,2023-11-30,36,3229,0,0.77,Brazil,Brazil,direito,187,81,sim
+Allyson,Cuiabá,"RCB, LCB",33,125000,2024-12-31,17,1375,0,0.61,Brazil,Brazil,direito,184,78,sim
+Henrique Vermudt,Botafogo,RCB,24,100000,2024-12-31,1,65,0,0.0,Brazil,Brazil,direito,180,76,sim
+Felipe Camargo,Avaí,"LB, LCB",24,100000,2023-12-31,4,123,0,0.0,Brazil,Brazil,esquerdo,188,74,sim
+Gustavo Rissi,Miami,"LWB, LB, LCB",25,100000,2023-11-30,13,774,0,0.24,Brazil,Brazil,direito,184,72,sim
+Ulisses,Nacional,RCB,24,100000,2024-12-31,6,480,1,0.89,Brazil,Brazil,direito,186,80,sim
+Matheus Mega,CRB,"RCB, LCB, RB",24,100000,2023-12-31,8,649,0,0.49,Brazil,Brazil,direito,188,81,sim
+Zé Vitor,Tombense,LCB,22,100000,2023-12-31,18,1083,2,0.73,Brazil,Brazil,esquerdo,189,86,sim
+Reverson,Grêmio Novorizontino,"LWB, LCB, LB",26,100000,2023-12-31,36,2912,2,1.85,Brazil,Brazil,esquerdo,175,71,sim
+Renzo,Sport Recife,RCB,22,100000,2025-12-31,4,318,1,0.04,Brazil,Brazil,esquerdo,184,78,sim
+Derick,Pouso Alegre,RCB,21,100000,2026-03-31,7,460,0,0.66,Brazil,Brazil,direito,193,84,sim
+Hélder,Criciúma,"LB, LCB",35,100000,2023-11-30,29,1892,1,0.24,Brazil,Brazil,esquerdo,179,81,sim
+Matheus Mancini,Criciúma,LCB,29,100000,2023-12-31,18,1384,0,0.25,Brazil,"Brazil, Italy",esquerdo,190,75,sim
+Venicio,Shijiazhuang Gongfu,"LCB, RCB",29,100000,2023-12-31,32,2450,3,1.81,Brazil,Brazil,direito,188,83,sim
+Felipe Silva,Gil Vicente,LCB,21,100000,2025-12-31,27,2622,2,1.94,Brazil,Brazil,esquerdo,190,78,sim
+Xandão,Varzim,LCB,33,100000,2023-11-30,29,2791,2,1.32,Brazil,Brazil,esquerdo,189,82,sim
+Alíx Vinícius,Atlético GO,"RCB, LCB",23,100000,2023-11-30,29,2555,2,3.41,Brazil,Brazil,direito,195,76,sim
+Allan Godói,Operário PR,RCB,30,100000,2023-12-31,21,1977,0,0.28,Brazil,Brazil,direito,187,81,sim
+Matheus Salustiano,São Bernardo FC,CB,30,100000,2023-11-15,34,3374,0,0.69,Brazil,Brazil,direito,183,76,sim
+Charleston,Maqtaaral,LCB,27,100000,2023-12-31,16,1494,1,0.98,Brazil,Brazil,esquerdo,195,73,sim
+Pedro Carrerette,Botafogo PB,LCB,24,100000,2023-11-30,25,2463,2,1.34,Brazil,Brazil,direito,188,88,sim
+Joécio,Náutico,LCB,37,100000,2023-11-30,20,1736,2,1.92,Brazil,Brazil,direito,189,70,sim
+Raphael Rodrigues,Confiança,RCB,24,100000,2024-12-31,14,1251,0,0.26,Brazil,Brazil,direito,183,69,sim
+Bruno Silva,Grêmio Novorizontino,"CB, LCMF, RCMF",35,100000,2023-11-30,11,696,0,0.43,Brazil,Brazil,direito,183,82,sim
+Rafael Pereira,Ituano,"RCB, LCB",38,100000,2023-11-30,34,2558,0,0.94,Brazil,Brazil,direito,181,78,sim
+Y. Victor,Kelantan United,"RCB, CB",28,100000,2023-11-30,16,1561,1,2.13,Brazil,Brazil,direito,189,82,sim
+Alan Henrique,Mariehamn,"RCB, LCB",32,100000,2023-12-31,23,1732,0,0.94,Brazil,Brazil,direito,189,78,sim
+Luan,Londrina,"RCB, LCB, RCMF",22,100000,2024-12-31,5,220,0,0.25,Brazil,"Brazil, Portugal",direito,184,75,sim
+Igor Ribeiro,Araz,"LCB, LB",27,100000,2023-12-31,32,2833,0,0.32,Brazil,Brazil,direito,188,78,sim
+Doma,Vila Nova,LCB,25,100000,2023-12-31,45,4466,4,4.18,Brazil,Brazil,direito,186,79,sim
+Wesley,Tombense,RCB,23,100000,2023-12-31,22,2110,1,0.62,Brazil,Brazil,direito,190,78,sim
+Jhonnathan,ABC,"LB, LCB",22,100000,2026-04-30,21,1622,2,0.43,Brazil,Brazil,esquerdo,186,84,sim
+Gustavo Martins,Grêmio,RCB,21,100000,2025-12-31,23,1108,2,1.18,Brazil,Brazil,direito,191,77,sim
+Lucas Turci,Memphis 901,LCB,27,75000,2023-11-30,32,2027,2,1.51,Brazil,Brazil,ambos,192,0,sim
+D. Navarro,North Carolina FC,"RCB, LCB",32,75000,2023-11-30,14,1242,0,0.96,United States,"United States, Brazil",direito,185,82,sim
+Zé Pedro,Camboriú,"RCB, LCB",23,50000,2023-12-31,10,860,0,0.07,Brazil,Brazil,direito,194,85,sim
+T. Barbosa,CSKA 1948 Sofia II,"RCB, LCB",22,50000,2024-06-30,17,1506,1,1.05,Brazil,Brazil,direito,196,84,sim
+Walfrido,ABC,"RCB, RCMF",29,50000,2023-12-31,14,1010,2,0.61,Brazil,Brazil,direito,187,77,sim
+João Maistro,Atlético GO,RCB,23,50000,2024-12-30,19,1687,2,0.68,Brazil,Brazil,direito,185,78,sim
+Richardson,Náutico,"LCB, RCB",31,50000,2024-05-31,38,3322,1,2.22,Brazil,Brazil,direito,183,81,sim
+Patrick,Zakho,"LCB, RCB",29,50000,2023-12-31,26,2583,3,1.87,Brazil,Brazil,direito,189,78,sim
+Fábio Aguiar,Sampaio Corrêa,LCB,34,50000,2023-11-30,19,1744,2,1.1,Brazil,Brazil,direito,186,78,sim
+Gustavo Henrique,Sampaio Corrêa,RCB,24,50000,2023-11-30,37,3432,0,0.34,Brazil,Brazil,direito,192,88,sim
+Léo Silva,Ararat-Armenia,"RCB, LCB",23,50000,2023-11-30,28,2410,0,0.94,Brazil,Brazil,direito,184,79,sim
+Claudinho,Ituano,RCB,33,50000,2023-11-30,36,3191,1,1.61,Brazil,Brazil,direito,183,82,sim
+Rodrigo Sam,Mirassol,RCB,28,50000,2025-04-11,32,2459,0,0.65,Brazil,Brazil,direito,185,74,sim
+Marcel Scalese,Ituano,LCB,27,50000,2024-04-15,35,2948,1,0.93,Brazil,Brazil,esquerdo,190,83,sim
+Marco Antônio,Vitória,"LCB, RCMF, RDMF",23,50000,2024-12-31,20,1365,0,1.12,Brazil,Brazil,direito,178,75,sim
+Luiz Gustavo,Juventude,"RCB, RB",29,50000,2023-11-30,23,1768,1,0.66,Brazil,Brazil,direito,180,67,sim
+Alan Santos,Guarani,RCB,32,50000,2023-12-31,29,2600,0,1.35,Brazil,Brazil,direito,184,78,sim
+Carlinhos,Botafogo SP,"RCB, CB",28,50000,2024-12-10,17,1476,0,0.56,Brazil,Brazil,direito,190,79,sim
+Afonso,ABC,"RCB, CB",29,50000,2024-05-31,36,3275,2,1.4,Brazil,Brazil,direito,186,89,sim
+Adriano Martins,Grêmio Novorizontino,RCB,26,50000,2023-12-31,43,4143,2,4.17,Brazil,Brazil,direito,193,87,sim
+Thomás Kayck,Ponte Preta,LCB,27,50000,2024-04-30,26,2208,0,0.17,Brazil,Brazil,esquerdo,192,80,sim

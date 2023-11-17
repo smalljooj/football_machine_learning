@@ -1,0 +1,204 @@
+,Jogador,Equipa,Posição,Idade,Valor de mercado,Contrato termina,Partidas jogadas,Minutos jogados:,Golos,Golos esperados,Naturalidade,País de nacionalidade,Pé,Altura,Peso,Emprestado
+7,Robinho,CSA,"RW, LW, CF",24,300000,2023-12-31,24,1260,2,2.1,Brazil,Brazil,direito,176,75,sim
+8,Kawê,Red Bull Bragantino,"LCMF, AMF, RWF",21,300000,2027-06-30,4,115,0,0.12,Brazil,Brazil,direito,178,66,sim
+10,Júnior Todinho,CSA,"CF, RW",29,300000,2024-04-10,28,1918,6,7.06,Brazil,Brazil,esquerdo,182,72,sim
+13,João Veras,Botafogo SP,"CF, RAMF",22,300000,2023-11-30,7,135,1,0.35,Brazil,Brazil,direito,182,73,sim
+14,Salatiel,Botafogo SP,CF,31,300000,2023-11-30,33,2698,8,7.97,Brazil,Brazil,direito,187,76,sim
+15,Gabriel Bispo,KuPS,"CF, AMF",26,300000,2024-12-31,33,2019,3,6.61,Brazil,Brazil,direito,177,77,sim
+16,Bruno Mezenga,Santos,CF,35,300000,2024-04-10,25,1432,8,3.71,Brazil,Brazil,esquerdo,185,78,sim
+20,Chrigor,Portuguesa,"CF, LW",22,300000,2024-12-31,24,1923,7,7.91,Brazil,Brazil,direito,183,75,sim
+23,Lucão,Al Khor,CF,23,300000,2025-06-30,22,653,3,2.72,Brazil,Brazil,direito,189,84,sim
+24,Diego Jardel,Londrina,"AMF, LCMF, CF",33,300000,2023-11-30,19,1170,1,1.88,Brazil,Brazil,esquerdo,180,77,sim
+25,Júnior Dutra,Figueirense,CF,35,300000,2023-12-31,10,582,1,1.05,Brazil,Brazil,direito,183,77,sim
+26,Gabriel Santos,Sport Recife,CF,24,300000,2025-01-30,38,1309,5,2.95,Brazil,Brazil,direito,185,77,sim
+30,Diego Carioca,Kolos Kovalivka,"LW, LB, LWF",25,300000,2024-06-30,15,966,1,2.02,Brazil,Brazil,direito,180,75,sim
+31,Jô,Chaves,CF,28,300000,2024-06-30,21,684,2,3.49,Brazil,Brazil,esquerdo,192,84,sim
+35,Léo Gamalho,Vitória,CF,37,300000,2023-12-31,37,2702,13,13.45,Brazil,Brazil,direito,188,87,sim
+50,Iago Dias,Londrina,"CF, LAMF, RW",30,300000,2023-11-30,33,2393,4,4.55,Brazil,Brazil,direito,175,74,sim
+51,Zé Vitor,Londrina,CF,24,300000,2024-12-31,26,1443,2,4.62,Brazil,Brazil,direito,182,78,sim
+56,Dudu,Nacional,"CF, RW",24,300000,2025-06-30,42,2764,5,9.49,Brazil,Brazil,direito,179,73,sim
+57,Leandrinho,Maringá,"CF, RWF",25,300000,2024-08-07,5,110,0,0.42,Brazil,Brazil,direito,174,66,sim
+58,Matheus Lucas,Pouso Alegre,CF,25,300000,2023-12-31,26,1338,4,7.6,Brazil,Brazil,direito,180,80,sim
+60,Thuram,Pendikspor,CF,32,300000,2024-06-30,32,2809,11,9.41,Brazil,Brazil,direito,183,79,sim
+61,Anselmo,Al Wehda,"CF, AMF, RDMF",34,300000,2024-06-30,36,3667,6,6.67,Brazil,Brazil,direito,182,80,sim
+62,Marcelo Moreno,Independiente del Valle,CF,36,300000,2023-12-31,35,1590,4,5.81,Bolivia,"Bolivia, Brazil",direito,187,87,sim
+64,Tardeli,Port FC,CF,33,300000,2024-05-31,30,2814,16,14.03,Brazil,"Brazil, Thailand",direito,185,0,sim
+66,Rômulo,Grêmio Novorizontino,"LCMF, RCMF, LWF",22,300000,2025-06-30,48,2649,7,5.05,Brazil,Brazil,direito,175,64,sim
+67,Pablo Dyego,Ponte Preta,"LW, LAMF, CF",29,300000,2023-11-30,31,2477,9,11.12,Brazil,Brazil,direito,174,66,sim
+68,Aylon,Grêmio Novorizontino,"LWF, AMF, LW",31,300000,2023-11-30,54,4030,13,15.15,Brazil,Brazil,direito,180,75,sim
+69,Felipe Marques,Grêmio Novorizontino,"AMF, RWF, LWF",33,300000,2023-11-30,39,1665,2,4.72,Brazil,Brazil,direito,168,69,sim
+70,Vitinho,Vålerenga II,"RCMF, CF",20,300000,2024-12-31,32,2379,4,4.65,Brazil,Brazil,esquerdo,180,77,sim
+72,Daniel Bahia,Plaza Colonia,CF,25,300000,2024-12-31,11,532,1,1.9,Brazil,Brazil,direito,185,80,sim
+74,Samuel,Oita Trinita,CF,22,275000,2024-01-31,22,750,1,1.74,Brazil,Brazil,esquerdo,183,96,sim
+78,Douglas Vieira,Sanfrecce Hiroshima,CF,35,275000,2024-01-31,30,1561,8,7.43,Brazil,Brazil,direito,189,82,sim
+82,Ricardo Bueno,Confiança,CF,36,250000,2023-11-30,23,1703,2,4.83,Brazil,Brazil,direito,183,75,sim
+83,Joao Morelli,HFX Wanderers FC,"RW, CF, AMF",27,250000,2023-11-30,9,487,4,2.51,Brazil,Brazil,direito,180,0,sim
+85,Diogo,Johor Darul Ta'zim,CF,36,250000,2023-12-31,13,766,7,4.75,Brazil,Brazil,direito,188,82,sim
+87,Patrick Luan,Krumovgrad,"CF, RAMF, RWF",24,250000,2024-06-30,20,1165,3,2.81,Brazil,Brazil,direito,179,77,sim
+90,Paulo Sérgio,ABC,CF,34,250000,2023-12-31,25,1903,8,7.32,Brazil,Brazil,direito,181,79,sim
+91,Júnior Negão,Sichuan Jiuniu,CF,36,250000,2023-12-31,7,220,1,1.04,Brazil,Brazil,direito,187,85,sim
+93,Jefferson da Silva,Shanghai Jiading Huilong,CF,33,250000,2023-12-31,29,1981,8,6.79,Brazil,"Brazil, Bolivia",direito,188,0,sim
+97,Yann Rolim,Ituano,"AMF, CF",28,250000,2023-11-30,30,1744,4,3.63,Brazil,Brazil,direito,173,68,sim
+98,Aloísio,América Mineiro,"CF, LW",35,250000,2023-12-31,34,2104,12,11.66,Brazil,"Brazil, China PR",direito,176,78,sim
+99,Lulinha,Madura United,"LWF, LW, LAMF",33,250000,2024-01-20,36,3094,10,8.62,Brazil,Brazil,direito,170,70,sim
+103,Cristiano,Ventforet Kofu,"CF, RAMF, RW",36,250000,2024-01-31,25,1324,3,2.46,Brazil,Brazil,direito,183,83,sim
+104,Cleiton Silva,East Bengal,CF,36,250000,2024-05-31,23,2167,12,9.19,Brazil,Brazil,ambos,174,70,sim
+105,Jean Lucas,Avaí,"LWF, LW, CF",28,250000,2023-12-31,6,519,0,0.71,Brazil,Brazil,direito,175,73,sim
+107,Fabrício,Levante,"CF, LW, LAMF",23,250000,2027-06-30,35,2058,4,5.96,Brazil,Brazil,direito,186,77,sim
+109,Maxuell,Birkirkara,CF,32,250000,2026-06-30,18,1187,7,10.0,Brazil,Brazil,direito,182,74,sim
+111,Kleiton,Tombense,"CF, LW, RW",24,250000,2023-12-31,29,2141,2,3.32,Brazil,Brazil,direito,180,72,sim
+112,Jáderson,Tombense,"RAMF, RW, RWF",23,250000,2024-12-31,33,1685,0,1.29,Brazil,Brazil,esquerdo,170,65,sim
+120,Denner,Grêmio Novorizontino,"AMF, LW, CF",23,250000,2024-12-31,18,559,0,0.63,Brazil,Brazil,esquerdo,181,77,sim
+121,Vágner Love,Sport Recife,CF,39,250000,2023-12-31,57,5079,23,21.26,Brazil,Brazil,direito,172,72,sim
+122,Felipe Garcia,Operário PR,CF,32,250000,2023-11-30,40,3472,15,12.21,Brazil,Brazil,direito,185,80,sim
+124,Gustavo Coutinho,Atlético GO,CF,24,250000,2024-12-31,35,2812,15,10.01,Brazil,Brazil,direito,182,78,sim
+128,Lohan,Criciúma,CF,28,250000,2023-11-30,29,1365,4,8.28,Brazil,Brazil,direito,191,86,sim
+129,Ítalo,Criciúma,"LWF, LW",30,250000,2023-12-31,27,1234,0,1.01,Brazil,Brazil,direito,175,71,sim
+132,Derley,Prachuap,CF,35,250000,2024-05-31,31,3052,6,12.05,Brazil,Brazil,direito,183,81,sim
+137,Kennedy Rocha,Herediano,"LW, LAMF, CF",27,250000,2024-06-30,29,1491,5,3.58,Brazil,Brazil,direito,158,0,sim
+140,Adler,Stal Rzeszów,CF,24,225000,2026-06-30,17,1179,4,5.02,Switzerland,"Switzerland, Brazil",direito,187,84,sim
+142,Kelvin,Ryūkyū,"CF, RW",30,225000,2024-01-31,23,1344,2,2.28,Brazil,Brazil,esquerdo,175,71,sim
+144,R. Ramires,FK Auda,CF,22,225000,2025-12-31,39,2460,14,15.16,Brazil,Brazil,direito,178,70,sim
+146,A. Becker,Viktoria Köln,CF,27,225000,2024-06-30,33,1387,8,5.86,Brazil,"Brazil, Germany",esquerdo,197,92,sim
+147,Marcus Índio,Imabari,"CF, RW, RWF",25,225000,2024-01-31,33,2851,9,12.51,Brazil,Brazil,esquerdo,173,69,sim
+149,David da Silva,Persib,CF,33,225000,2023-12-30,39,3511,26,21.59,Brazil,Brazil,direito,185,0,sim
+150,Everton Nascimento,PSM,CF,30,225000,2024-01-20,43,3368,7,10.71,Brazil,Brazil,direito,186,78,sim
+160,Álvaro,América RN,CF,25,200000,2023-12-31,16,854,4,4.61,Brazil,Brazil,direito,185,75,sim
+161,Guilherme Santos,Avaí,"CF, AMF, RW",22,200000,2024-12-31,2,75,0,0.0,Brazil,Brazil,esquerdo,181,76,sim
+173,Gerson Magrão,Botafogo PB,"CF, LCMF",38,200000,2024-04-30,22,1215,2,1.03,Brazil,Brazil,esquerdo,181,78,sim
+175,Pimentinha,Sampaio Corrêa,"RAMF, RW, RWF",36,200000,2023-12-31,27,2229,1,3.27,Brazil,Brazil,esquerdo,165,62,sim
+177,Kayke,Chapecoense,"CF, RW",35,200000,2023-12-31,27,1373,2,4.38,Brazil,Brazil,direito,182,80,sim
+180,Victor Andrade,Juventude,"LW, LAMF, CF",28,200000,2023-12-31,15,619,0,1.11,Brazil,Brazil,direito,178,72,sim
+182,Élton,Remo,CF,38,200000,2023-12-31,11,531,3,2.77,Brazil,Brazil,esquerdo,185,84,sim
+187,Michael Thuique,Hegelmann Litauen,CF,30,200000,2023-12-31,26,1334,5,6.04,Brazil,Brazil,direito,180,74,sim
+188,Cassiano,Estoril,CF,34,200000,2024-06-30,35,2558,9,8.47,Brazil,Brazil,direito,184,80,sim
+189,Nick Firmino,Atlanta United II,"AMF, CF",22,200000,2023-12-31,28,2504,17,8.35,Brazil,"Brazil, United States",direito,180,70,sim
+191,Nenê,Juventude,"CF, AMF",42,200000,2023-11-30,39,2847,10,8.35,Brazil,"Brazil, Spain",esquerdo,181,74,sim
+194,Diego Quirino,Ituano,CF,30,200000,2023-12-31,47,2618,7,7.87,Brazil,Brazil,direito,180,79,sim
+195,Éder,Criciúma,CF,36,200000,2023-11-30,34,2731,9,9.58,Brazil,"Brazil, Italy",direito,179,78,sim
+196,Élder Santana,Aktobe,CF,30,200000,2023-12-31,33,2733,6,7.86,Brazil,Brazil,direito,186,88,sim
+197,Renato,CRB,"LAMF, LW, LWF",33,200000,2023-12-31,47,3754,18,8.56,Brazil,Brazil,direito,181,65,sim
+198,Ricardo Santos,Uthai Thani,CF,36,200000,2024-05-31,38,3823,31,23.18,Brazil,Brazil,direito,189,80,sim
+201,Dé,Mariehamn,"CF, LWF, LAMF",25,200000,2024-12-31,29,2103,3,7.94,Brazil,Brazil,direito,177,75,sim
+203,L. Lima,Helsingborg,CF,21,200000,2025-12-31,27,1588,3,7.11,Sweden,"Sweden, Brazil",direito,189,79,sim
+204,João Marcos,Santa Clara,CF,23,200000,2025-06-30,32,2009,7,8.65,Brazil,Brazil,direito,180,77,sim
+205,Rafael Martins,Santa Clara,CF,34,200000,2024-06-30,31,1856,7,6.22,Brazil,Brazil,direito,177,73,sim
+206,Rafael Silva,Sri Pahang,CF,33,200000,2023-11-30,30,1793,9,7.84,Brazil,Brazil,direito,176,68,sim
+207,Lucas Tocantins,São Bernardo FC,"RW, LW, LWF",29,200000,2024-04-10,24,1472,3,1.9,Brazil,Brazil,direito,180,76,sim
+208,Wellington Paulista,América Mineiro,CF,39,200000,2023-12-31,29,1029,7,8.74,Brazil,"Brazil, Spain",direito,180,80,sim
+209,Felipe Azevedo,América Mineiro,"LW, CF, LAMF",36,200000,2023-12-31,50,3101,7,5.83,Brazil,"Brazil, Italy",direito,172,75,sim
+210,Derek,Guarani,CF,25,200000,2025-11-30,35,2261,9,6.38,Brazil,Brazil,esquerdo,185,80,sim
+211,Osman,Botafogo SP,"CF, AMF, LW",31,200000,2023-12-15,44,3473,5,6.02,Brazil,Brazil,direito,179,72,sim
+212,Marcos Júnior,Botafogo SP,"CF, LW, RCMF",23,200000,2024-04-30,4,93,1,0.12,Brazil,Brazil,direito,170,67,sim
+216,Mateus Lima,Nasaf,CF,30,200000,2023-12-31,27,1778,5,2.47,Brazil,Brazil,direito,187,82,sim
+219,Lucão,Fagiano Okayama,CF,28,200000,2024-01-31,30,1285,1,3.94,Brazil,Brazil,direito,191,91,sim
+220,Yuri Araújo,Academico Viseu,"RW, RAMF, RWF",27,200000,2025-06-30,32,1645,4,4.15,Brazil,Brazil,esquerdo,170,66,sim
+221,Caio Dantas,Vila Nova,CF,30,200000,2024-12-30,39,2586,8,7.92,Brazil,Brazil,direito,177,72,sim
+222,Anselmo Ramon,CRB,CF,35,200000,2023-12-31,52,4496,15,13.99,Brazil,Brazil,direito,182,77,sim
+223,Gustavo Tocantins,Barito Putera,CF,27,200000,2024-01-20,38,3583,16,16.5,Brazil,Brazil,ambos,179,66,sim
+226,João Magno,Goiás,CF,26,200000,2024-06-30,35,2697,13,11.45,Brazil,Brazil,esquerdo,195,83,sim
+227,Ronivaldo,Blau-Weiß Linz,"CF, AMF",34,200000,2024-06-30,30,2252,20,16.85,Brazil,Brazil,direito,173,73,sim
+231,Hygor,Criciúma,"CF, RAMF, RW",31,200000,2024-12-31,25,1302,5,3.66,Brazil,Brazil,direito,186,78,sim
+233,Alan Grafite,Binh Dinh,"RW, LW, CF",25,200000,2023-12-31,23,954,1,1.81,Brazil,Brazil,direito,189,78,sim
+238,Patric,Kyoto Sanga,CF,36,200000,2024-01-31,33,1514,10,8.14,Brazil,Brazil,direito,189,82,sim
+241,Matheus Alves,Lahti,CF,30,200000,2023-12-31,27,2028,7,8.25,Brazil,"Brazil, Italy",direito,188,92,sim
+242,Magno Cruz,Jiangxi Lushan,"CF, RW, RWF",35,200000,2023-12-31,36,3267,9,8.35,Brazil,Brazil,direito,178,77,sim
+246,Adílio Santos,Penafiel,CF,30,200000,2024-06-30,15,976,3,4.12,Brazil,Brazil,direito,178,73,sim
+248,Galego,Gangwon,"RW, RWF, CF",26,175000,2024-06-30,32,1710,4,6.01,Brazil,Brazil,esquerdo,176,71,sim
+249,Luís Mota,Porto II,CF,20,175000,2025-06-30,10,259,0,0.56,Portugal,"Portugal, Brazil",direito,183,76,sim
+250,Juninho,Inter de Limeira,"AMF, CF, RW",28,175000,2024-04-10,13,863,1,0.89,Brazil,Brazil,direito,170,72,sim
+251,Arthur Silva,Kataller Toyama,"CF, RCMF, LCMF",28,175000,2024-01-01,29,1823,7,5.55,Brazil,Brazil,direito,181,80,sim
+253,Pedro Bortoluzo,Portuguesa,CF,27,175000,2023-11-30,10,682,3,2.34,Brazil,Brazil,direito,186,81,sim
+257,Osvaldo,Vitória,"RAMF, RW, CF",36,175000,2023-11-30,48,3512,7,5.27,Brazil,Brazil,direito,169,62,sim
+259,Matheus Leiria,Kataller Toyama,"CF, LW, LAMF",28,175000,2024-01-31,20,1133,5,2.54,Brazil,Brazil,direito,179,69,sim
+269,Albano,Retrô,"CF, AMF, RCMF",26,150000,2023-12-31,13,674,1,1.21,Brazil,Brazil,esquerdo,178,70,sim
+272,Paulo Henrique,Pouso Alegre,CF,30,150000,2023-11-30,13,784,1,1.64,Brazil,Brazil,direito,183,88,sim
+277,Renan Bressan,ABC,"CF, AMF",34,150000,2024-04-30,15,716,0,0.27,Brazil,"Brazil, Belarus",ambos,182,76,sim
+285,Nícolas Careca,Paysandu,"CF, RAMF",26,150000,2023-12-31,23,1420,3,3.82,Brazil,Brazil,direito,188,84,sim
+292,Tiago Marques,Criciúma,CF,35,150000,2023-11-30,12,433,2,1.3,Brazil,Brazil,direito,192,74,sim
+294,Ronaldo,Grêmio Novorizontino,CF,32,150000,2023-11-07,49,3537,13,21.72,Brazil,Brazil,direito,182,80,sim
+295,Vinicius Ribeiro,Džiugas Telšiai,"LW, CF",22,150000,2023-12-31,34,2573,4,4.62,Brazil,Brazil,direito,174,0,sim
+297,Felipe Felício,Levadia,CF,20,150000,2023-12-31,26,2020,6,9.14,Brazil,Brazil,direito,184,76,sim
+299,Erick Pulga,Ceará,"LW, LAMF, LWF",23,150000,2025-12-31,36,2487,9,6.98,Brazil,Brazil,direito,169,70,sim
+300,Rodrigo Angelotti,Omiya Ardija,CF,25,150000,2024-01-31,33,2333,6,8.52,Brazil,"Brazil, Italy",esquerdo,185,79,sim
+302,Rafael Furtado,Juventude,CF,23,150000,2023-11-30,7,302,1,1.78,Brazil,Brazil,direito,180,76,sim
+304,Felipe Augusto,Corinthians,CF,19,150000,2026-04-30,31,1499,15,4.71,Brazil,Brazil,esquerdo,180,73,sim
+306,Luiz Filipe,São Bernardo FC,"LWF, RW, AMF",22,150000,2023-12-31,6,321,0,0.39,Brazil,Brazil,direito,175,77,sim
+308,Dodô,FK Liepāja,CF,36,150000,2023-12-31,29,2543,12,10.84,Brazil,Brazil,direito,174,70,sim
+313,Dwann,Tauro,"AMF, CF",31,150000,2023-12-31,29,1639,3,3.56,Brazil,Brazil,direito,180,74,sim
+315,Murilo,Barito Putera,"LCMF, LW, CF",28,150000,2024-06-30,36,3215,10,7.27,Brazil,"Brazil, Portugal",direito,180,73,sim
+316,Jorge Barbosa,Cheongju FC,CF,24,150000,2024-06-30,42,3244,16,12.75,Brazil,Brazil,direito,190,83,sim
+317,Emerson Brito,Pouso Alegre,CF,21,150000,2027-01-15,2,67,0,0.0,Brazil,Brazil,direito,175,66,sim
+320,Ricardinho,Sheriff,"CF, AMF",34,150000,2024-06-30,26,1522,3,4.88,Brazil,Brazil,direito,178,73,sim
+321,Alexandre Jesus,Tombense,"RW, RAMF, RWF",22,150000,2025-12-31,13,745,1,3.0,Brazil,Brazil,direito,184,82,sim
+322,Luquinhas,Oulu,"AMF, CF, LAMF",26,150000,2024-12-31,37,2722,3,4.41,Brazil,Brazil,direito,175,67,sim
+328,João Victor,Ceará,"RWF, LW, CF",19,150000,2025-12-31,5,88,0,0.29,Brazil,Brazil,direito,172,68,sim
+331,Leândro,Radomiak Radom,"RWF, RW, RAMF",34,150000,2024-12-31,7,205,0,0.12,Brazil,"Brazil, Poland",esquerdo,175,74,sim
+332,Gabriel Barbosa,Penafiel,CF,24,150000,2024-06-30,30,1463,4,3.82,Brazil,Brazil,direito,195,89,sim
+336,Higor Leite,Sheikh Jamal,"AMF, LCMF, CF",30,125000,2024-12-31,33,2456,4,4.98,Brazil,Brazil,direito,181,79,sim
+338,Douglas Oliveira,Grulla Morioka,CF,28,125000,2024-01-31,23,1215,0,6.95,Brazil,Brazil,direito,188,88,sim
+345,Edmilson,Celje,CF,26,125000,2025-06-30,38,2556,15,13.03,Brazil,Brazil,direito,190,80,sim
+349,Edson Farias,AVS ,"RB, RWF, RW",31,125000,2024-06-30,25,1538,1,0.66,Brazil,Brazil,direito,170,58,sim
+350,Neto Pessôa,Vila Nova,CF,29,125000,2024-12-31,51,3928,8,13.19,Brazil,Brazil,esquerdo,178,76,sim
+358,João Laranjeira,Remo,"RAMF, CF",23,100000,2023-12-31,2,74,0,0.08,Brazil,Brazil,esquerdo,181,78,sim
+367,D. Silva Costa,Figueirense,"LW, CF",24,100000,2024-12-31,15,740,1,1.18,Brazil,Brazil,direito,187,0,sim
+370,Vinicius Popó,Operário PR,CF,22,100000,2024-12-31,34,2708,21,17.66,Brazil,Brazil,direito,179,76,sim
+371,Matheusinho,Mirassol,"RAMF, RW, RWF",25,100000,2024-12-31,17,658,1,0.28,Brazil,Brazil,esquerdo,176,69,sim
+372,Gabriel Venâncio,Ponte Preta,"CF, LW, RWF",22,100000,2024-05-31,4,194,0,0.0,Brazil,Brazil,direito,178,70,sim
+373,Everton,Red Bull Bragantino,"CF, RW",21,100000,2024-12-31,24,2171,3,4.62,Brazil,Brazil,esquerdo,170,59,sim
+375,Daniel Cruz,Juventude,"CF, LW, RAMF",22,100000,2024-12-31,18,595,2,1.93,Brazil,Brazil,direito,183,82,sim
+377,Samuel Granada,Volta Redonda,CF,23,100000,2025-12-31,16,696,6,3.32,Brazil,Brazil,direito,190,68,sim
+379,Luizao,Al Wasl,CF,20,100000,2023-10-31,5,125,0,0.17,Brazil,Brazil,direito,0,0,sim
+383,Juninho Carpina,CEOV Operário MT,"CF, AMF, LAMF",23,100000,2024-05-31,10,350,0,0.38,Brazil,Brazil,direito,172,65,sim
+384,Júlio Rodrigues,Maringá,CF,22,100000,2023-11-30,30,1903,5,4.36,Brazil,Brazil,direito,176,70,sim
+386,Alexandre Tam,Náutico,"CF, RAMF, RWF",24,100000,2023-12-31,8,147,0,0.3,Brazil,Brazil,esquerdo,177,70,sim
+388,Cristiano,Grulla Morioka,CF,24,100000,2024-01-31,6,290,2,2.76,Brazil,Brazil,direito,178,88,sim
+389,Gustavo,Osaka,"CF, LW, RW",21,100000,2025-12-31,17,695,2,1.86,Brazil,Brazil,direito,185,74,sim
+392,Eduardo Melo,Giravanz Kitakyushu,CF,22,100000,2023-12-31,12,460,0,0.61,Brazil,Brazil,direito,185,88,sim
+393,Patrick Carvalho,Portuguesa RJ,CF,26,100000,2023-11-30,9,380,0,0.58,Brazil,Brazil,direito,178,69,sim
+394,Jhemerson,Brusque,"LCMF, AMF, CF",26,100000,2023-12-31,41,2843,2,1.66,Brazil,Brazil,direito,174,66,sim
+395,Ivo,Yanbian Longding,"CF, AMF",37,100000,2023-12-31,25,2216,6,6.61,Brazil,Brazil,esquerdo,173,65,sim
+396,Eduardo Person,Ituano,"AMF, CF, LCMF",26,100000,2023-11-30,37,2834,4,3.44,Brazil,Brazil,direito,174,72,sim
+397,Léo Rafael,Ceará,"CF, RW, RCMF",22,100000,2024-12-31,17,634,1,1.41,Brazil,Brazil,direito,181,73,sim
+399,Gustavo Nescau,Albirex Niigata,CF,23,100000,2025-01-31,12,562,1,1.25,Brazil,Brazil,direito,189,90,sim
+401,Gabriel Taliari,Juventude,CF,26,100000,2024-12-31,37,3190,14,11.06,Brazil,"Brazil, Italy",direito,176,66,sim
+404,João Lucas,Vila Nova,"AMF, CF, LCMF",23,100000,2024-12-31,25,960,3,2.69,Brazil,Brazil,esquerdo,173,75,sim
+405,Victor Yan,Metalist Kharkiv,"CF, AMF",22,100000,2023-12-31,5,246,0,0.05,Brazil,Brazil,direito,180,70,sim
+407,Weslen Júnior,Manama,CF,23,100000,2023-12-31,20,1452,6,4.92,Brazil,Brazil,esquerdo,187,79,sim
+410,Matheus Anjos,ABC,"CF, AMF, LW",24,100000,2023-11-30,30,2373,5,3.61,Brazil,Brazil,direito,180,70,sim
+416,Júlio Vitor,Ferroviária,"LW, RW, CF",22,100000,2024-12-31,11,328,0,1.47,Brazil,Brazil,direito,172,68,sim
+417,Nathan,Oliveira Hospital,CF,24,100000,2023-12-31,34,1702,7,6.67,Brazil,Brazil,direito,190,83,sim
+421,F. Pachtmann,Zira,CF,23,100000,2025-06-30,12,387,2,0.74,Brazil,Brazil,direito,188,81,sim
+423,Myke,Nyíregyháza Spartacus,CF,31,100000,2026-06-30,20,1018,7,5.56,Brazil,"Brazil, Hungary",ambos,185,83,sim
+424,Edson,Botafogo SP,"RW, CF, RAMF",25,100000,2023-12-10,43,1651,4,3.35,Brazil,Brazil,direito,178,70,sim
+426,Sávio Roberto,VPS,"AMF, CF",27,100000,2023-12-31,25,1432,4,2.75,Brazil,Brazil,esquerdo,189,83,sim
+428,Fabricio,Guangxi Pingguo Haliao,"LW, CF, AMF",33,100000,2023-12-31,19,913,4,2.23,Brazil,Brazil,direito,183,78,sim
+429,David,Internacional U20,"AMF, CF, RAMF",19,100000,2025-12-31,11,832,2,0.31,Brazil,Brazil,direito,0,0,sim
+431,Yuri,Ponferradina,CF,41,100000,2024-06-30,38,1901,10,6.97,Brazil,"Brazil, Portugal",direito,186,78,sim
+432,Paulo Baya,Ponte Preta,"LW, CF, LAMF",24,100000,2023-11-30,34,1948,5,3.48,Brazil,Brazil,direito,184,72,sim
+440,Henrique Devens,Transinvest Vilnius,CF,26,75000,2023-12-31,27,2174,21,21.33,Brazil,"Brazil, Luxembourg",direito,177,0,sim
+442,Denilson,Seongnam,CF,25,75000,2025-08-01,25,1074,4,2.08,Brazil,Brazil,direito,190,84,sim
+444,Douglas Jardel,Tacuarembó,"CF, AMF",28,75000,2023-12-31,22,1710,14,0.7,Brazil,Brazil,direito,182,75,sim
+449,Bruno Gomes,Vllaznia Shkodër,CF,27,75000,2024-06-30,25,617,5,4.18,Brazil,"Brazil, Italy",direito,182,80,sim
+450,Dennis Oelsner,Ulm,"AMF, CF, LW",27,75000,2024-06-30,10,188,1,2.02,Brazil,"Brazil, Germany",esquerdo,174,0,sim
+452,Weslley Smith,Jiangxi Lushan,"CF, LW, LWF",31,75000,2023-12-31,28,2419,10,9.41,Brazil,Brazil,direito,180,75,sim
+453,Caio Henrique,Campinense,"CF, AMF",21,50000,2024-11-30,5,310,2,0.3,Brazil,Brazil,direito,168,0,sim
+456,Fabricio,Novo Hamburgo,CF,22,50000,2024-12-31,5,263,1,0.96,Brazil,Brazil,direito,180,72,sim
+462,Matheus Iacovelli,XV de Piracicaba,"CF, RAMF, LAMF",25,50000,2023-11-30,8,297,1,0.81,Brazil,Brazil,direito,180,79,sim
+463,Robertinho,Juventude,"RW, RAMF, RWF",23,50000,2023-11-30,28,1758,2,3.13,Brazil,Brazil,esquerdo,171,64,sim
+464,Alejandro,Ituano,"CF, AMF, LCMF",21,50000,2025-12-31,24,1819,8,7.86,Mexico,"Mexico, Brazil",direito,170,66,sim
+470,Kauan,Mirassol,CF,21,50000,2023-11-30,35,1721,3,6.95,Brazil,Brazil,direito,172,68,sim
+473,Gustavo Xuxa,Botafogo SP,"AMF, CF, LW",30,50000,2024-12-05,25,886,2,1.35,Brazil,Brazil,direito,173,79,sim
+475,Foguinho,Amazonas,"CF, AMF, RAMF",23,50000,2023-12-31,19,781,0,1.08,Brazil,Brazil,esquerdo,169,66,sim
+476,João Pedro,Levadia,"RW, AMF, CF",21,50000,2025-07-31,14,724,2,1.83,Brazil,Brazil,esquerdo,170,60,sim
+477,Camilo,Mirassol,"CF, RCMF, AMF",37,50000,2023-11-30,48,2312,6,5.01,Brazil,Brazil,direito,174,72,sim
+478,Vinícius Alves,Sampaio Corrêa,"CF, LAMF, LW",24,50000,2023-11-30,28,1744,4,5.88,Brazil,Brazil,direito,181,74,sim
+479,Welder,Vitória,"CF, RW, RWF",28,50000,2023-11-30,30,1905,9,4.05,Brazil,Brazil,direito,182,78,sim
+483,Bambam,Itabaiana,CF,29,50000,2024-06-30,12,472,4,1.65,Brazil,Brazil,direito,183,82,sim
+487,Danrlei,Chapecoense,CF,27,50000,2023-11-30,32,1689,3,3.29,Brazil,Brazil,direito,183,80,sim
+488,Caio Mancha,FAS,CF,31,50000,2023-11-30,46,3197,11,11.0,Brazil,Brazil,direito,188,87,sim
+489,Léo Ceará,Gyeongnam,"LW, CF, RW",24,50000,2024-11-30,36,1991,2,2.82,Brazil,Brazil,direito,175,66,sim
+491,Ewertton,Gzira United,"CF, LW, AMF",26,50000,2026-06-30,25,1760,3,2.69,Brazil,Brazil,direito,164,0,sim
+493,Beto Goncalves,PSBS Biak Numfor,CF,42,25000,2023-12-20,30,1786,9,7.96,Brazil,Brazil,direito,175,74,sim
+496,Sandro,Madureira,CF,36,25000,2023-12-31,2,117,0,0.13,Brazil,"Brazil, Hong Kong",direito,186,70,sim
+499,Nenê,AVS ,CF,40,25000,2024-06-30,31,2458,17,14.05,Brazil,Brazil,direito,183,78,sim
